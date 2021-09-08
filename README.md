@@ -1,34 +1,34 @@
-## UniLingo
+## UniLingo 
+
+##### Run Locally 
+- ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
+
+- rails version 6.1.4.1: ```$ rails -v ```
+
+- If you have bundler gem installed run:
+``` $ bundle```
+
+- Else install the bundler gem with following command:
+```$ gem install bundler:2.2.15```
+
+- After bundle is executed successfully, create db by running following command
+```$ rails db:create rails db:migrate Rails db:seed```
+
+- Browse to localhost:34456
+Connect as guest.  Register.  Logout. Login.
+
+##### Deploy To Heroku
+
+- Assumes basic familiarity with Ruby/Rails and Git.
+- Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
+- Requires heroku user [account link](https://signup.heroku.com/devcenter)
 
 
-### Next Steps
-- [x] Updating rails to latest version.
-- [x] Resolving gem issues.
-- [x] Deployment to [heroku](https://uni-lingo.herokuapp.com/)
-- [ ] Test Docs
-  - [ ] User Docs
-  - [ ] Developer Docs
-- [ ] Split {Poly,Uni}Lingo
-- [ ] Responsive Web Apps
-- [ ] Mobile Phone Apps
-
- To run locally you must have installed:
--- ruby version >= ruby 2.5.1p5 -- rails version 6.1.4.1
-If you have bundler gem installed run:
--- bundle (in command line)
-Else install the bundler gem with following command:
-gem install bundler:2.2.15
-After bundle is executed successfully, create db by running following command
-rails db:create rails db:migrate Rails db:seed
-To Deploy It To Heroku Follow these Steps :
-Basic familiarity with Ruby/Rails and Git
-A locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+ A Heroku user account link (https://signup.heroku.com/devcenter)
 Local setup
 Install the Heroku CLI (https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
 Once installed, the heroku command is available from your terminal. Log in using your Heroku account’s email address and password:
 (on command line enter command)
 $ heroku login
-
  heroku: Enter your Heroku credentials Email: <heroku account email> Password:< heroku account password >
 Deploy your application to Heroku
 Make sure you are in the directory that contains your Rails app, then create an app on Heroku:
@@ -51,5 +51,18 @@ You can view information about your running app using one of the logging command
 $ heroku logs -t
 Run the Rails console
 Heroku allows you to run commands in a one-off dyno - scripts and applications that only need to be executed when needed - using the heroku run command. Use this to launch a Rails console process attached to your local terminal for experimenting in your app’s environment:
+
 $ heroku run rails console
 
+
+
+### Next Steps
+- [x] Updating rails to latest version.
+- [x] Resolving gem issues.
+- [x] Deployment to [heroku](https://uni-lingo.herokuapp.com/)
+- [ ] Test Docs
+  - [ ] User Docs
+  - [ ] Developer Docs
+- [ ] Split {Poly,Uni}Lingo
+- [ ] Responsive Web Apps
+- [ ] Mobile Phone Apps
