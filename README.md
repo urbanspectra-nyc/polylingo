@@ -6,6 +6,8 @@
 - [x] Resolving gem issues.
 - [x] Deployment to [heroku](https://uni-lingo.herokuapp.com/)
 - [ ] Test Docs
+  - [ ] User Docs
+  - [ ] Developer Docs
 - [ ] Split {Poly,Uni}Lingo
 - [ ] Responsive Web Apps
 - [ ] Mobile Phone Apps
