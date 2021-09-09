@@ -19,7 +19,7 @@ Web app prototyping platform, supporting collaborative design of multi-lingual o
 - [Current Tasks](#current-tasks)
 - [Pending Tasks](#pending-tasks)
 
-
+---
 
 #### Overview
 
