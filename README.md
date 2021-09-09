@@ -31,6 +31,7 @@ Collaborators = [ Developers + Instructors + Students ]
   - Invite Instructors To Private Test-Driven Feature Demo.
 
 =>  [Detailed Overview](/readmeResources/detailed-overview.md) <=
+
 =>  [Web App Prorotype Feature Requests](/readmeResources/feature-requests.md) <=
 
 #### Run Web App Demo For Prototyping
