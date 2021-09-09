@@ -16,7 +16,7 @@ Collaborators = [ Developers + Instructors + Students ]
 - [Troubleshooting](#troubleshooting)
 - [Contributors](#contributors)
 - [Related Projects](#related-projects)
-- [Current + Pending Tasks](readmeResources/tasks.md)
+- [Task Management](#task-management)
 
 ---
 
@@ -105,7 +105,6 @@ You can obtain an interactive shell session by running: ``` $ heroku run bash ``
 
 We can now visit the app in our browser with command: ``` $ heroku open ```
 
-
 #### Troubleshooting
 
 - Local Setups + Testing
@@ -134,3 +133,10 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 - [Example Beginner Structured Taxonomy Development]()
 - [Unilingo Advanced Structured Taxonomy Evolution]()
 
+#### Task Management
+- Issue Triage
+- Issue Templates
+- PR Templates
+- [Current + Pending Tasks](readmeResources/tasks.md)
+
+---
