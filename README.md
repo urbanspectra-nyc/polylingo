@@ -1,18 +1,42 @@
-## unilingo 
+## unilingo ![unilingo logo](??)
 
 ### Table of Contents
-- [Running Prototyping Demo](#running-prototyping-demo)
+- [Overview](#overview)
+
+- [Run Web App Demo For Prototyping](#run-web-app-demo-for-prototyping)
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
+
 - [Heroku Deployment Local Setups](#heroku-deployment-local-setups)
 - [Deploy To Heroku](#deploy-to-heroku)
+
+- [Troubleshooting](#troubleshooting)
+
 - [Contributors](#contributors)
 - [Current Tasks](#current-tasks)
 - [Pending Tasks](#pending-tasks)
 
-#### Running Prototyping Demo
-- [Demo](https://uni-lingo.herokuapp.com/)
-  - Connect as guest. Register. Logout. Login.
+---
+
+#### Run Web App Demo For Prototyping
+
+- [Public Web Demo](https://uni-lingo.herokuapp.com/)
+  - Connect and review supported languages.
+    - ??: How to add supported language.  What kinds of English?
+    - ??: How to peruse world languages.
+
+  - Login as Guest. Register.
+    - ??: Instructor or Student
+    - ??: Gmail ID
+    - ??: Batch Pre-Registrations
+    - ??: Native Language
+
+  - Choose languages.
+    - ??: How to select tracks and lessons.
+
+  - Logout. Login.
+    - ??: Invite To Demo = Feature@Tag:Release => Scheduled?
+
 
 #### Local Dev Setups
 
@@ -31,11 +55,9 @@
   - After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
 
 #### Local Dev Testing
-- Browse to localhost:34456
-- Connect. Login as Guest. Register. Logout. Login.
-
-- Repo Tour
-  - Tree
+- Browse to [Local App URL](https://localhost:34456)
+- Repo Tour ??
+  - Tree ??
 
 #### Heroku Deployment Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
@@ -81,6 +103,10 @@ You can view information about your running app using one of the logging command
 Use this to launch a Rails console process attached to your local terminal for experimenting in your app’s environment:
 ``` $ heroku run rails console ```
 
+#### Troubleshooting
+
+
+
 #### Contributors
 - Ruby Devs
 - React Devs
@@ -103,6 +129,7 @@ Use this to launch a Rails console process attached to your local terminal for e
 - [x] Updating rails to latest version.
 - [x] Resolving gem issues.
 - [x] Deployment to [heroku](https://uni-lingo.herokuapp.com/)
+- [ ] Add logo
 - [ ] Test Docs
   - [ ] User Docs
   - [ ] Developer Docs
