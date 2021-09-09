@@ -1,11 +1,15 @@
 ## UniLingo 
 
 ### Table of Contents
-- [Running Demo](#running-demo)
+
+- [Running Prototyping Demo](#running-prototyping-demo)
+
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
+
 - [Heroku Deployments Setups](#heroku-deployment-setups)
 - [Deploy To Heroku](#deploy-to-heroku)
+
 - [Contributors](#contributors)
 - [Current Tasks](#current-tasks)
 - [Pending Tasks](#pending-tasks)
