@@ -11,8 +11,8 @@ Collaborators = [ Developers + Instructors + Students ]
 - [Run Web App Demo For Prototyping](#run-web-app-demo-for-prototyping)
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
-- [Heroku Remote Hosting Local Setups](#heroku-remote-hosting)
-- [Heroku Remote Service Deployment Login](#heroku-remote-service)
+- [Heroku Remote Hosting Local Setups](#heroku-remote-hosting-local-setups)
+- [Heroku Remote Service Login + Deployment](#heroku-remote-service-login-+-deployments)
 - [Troubleshooting](#troubleshooting)
 - [Types of Contributors](#types-of-contributors)
 - [Tools For Seasoned Developers](#tools-for-seasoned-developers)
@@ -84,7 +84,7 @@ Skim this before your test-drive: =>  [Web App Prototype Feature Requests](/read
 
 ---
 
-#### Heroku Deployment Local Setups
+#### Heroku Remote Hosting Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
 - Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
@@ -93,7 +93,7 @@ Skim this before your test-drive: =>  [Web App Prototype Feature Requests](/read
 
 ---
 
-#### Heroku Remote Hosting Service Login
+#### Heroku Remote Service Login + Deployment
 - Log in using your Heroku account’s email address and password:  ```$ heroku login```
   - Enter your Heroku credentials
     - Email: < heroku account email >
