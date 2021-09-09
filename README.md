@@ -12,7 +12,7 @@
 
 ##### Running Prototype Demo
 - [Demo](https://uni-lingo.herokuapp.com/)
-- Connect as guest. Register. Logout. Login.
+  - Connect as guest. Register. Logout. Login.
 
 ##### Local Dev Setups
 
