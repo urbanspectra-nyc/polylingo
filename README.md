@@ -20,11 +20,11 @@ https://uni-lingo.herokuapp.com/
   - https://github.com/asdf-vm/asdf-ruby
 
 
-- ruby version >= ruby 2.5.1p5: ```bash $ ruby -v ```
-- rails version 6.1.4.1: ```bash $ rails -v ```
+- ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
+- rails version 6.1.4.1: ``` $ rails -v ```
 - If you have bundler gem installed, just run  run: ``` $ bundle```
-  - Else install the bundler gem with following command: ```bash $ gem install bundler:2.2.15```
-- After bundle is executed successfully, create db by running following command: ```bash $ rails db:create rails db:migrate Rails db:seed```
+  - Else install the bundler gem with following command: ``` $ gem install bundler:2.2.15```
+- After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
 
 ##### Local Dev Testing
 - Browse to localhost:34456
