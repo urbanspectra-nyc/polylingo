@@ -27,10 +27,10 @@ Collaborators = [ Developers + Instructors + Students ]
 
 2 - Setup Local Dev Environment + Stand Up Local App As Is.  See example local dev support request.
 
-3 - Redeploy Locally Tested Improved App To Your Free Heroku App Hosting Account.  See example heroku dev support request.
+3 - Add Example Feature: [ Test + Code + Tag ]
+    - https://devcenter.heroku.com/ja
 
-4 - Add Feature Test+Code+Tag. Redeploy Locally Tested Improved App To Heroku.  See example deployment dev support request.
-    https://devcenter.heroku.com/ja
+4 - Redeploy Locally Tested Improved App To Heroku.  See example deployment dev support request.
 
 5 - Devs Invite Instructor To Private Test-Driven Feature Demo.  See example proposed terms of exchange.
 
