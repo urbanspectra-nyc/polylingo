@@ -17,28 +17,28 @@
 ##### Local Dev Setups
 
 - Tools
-  - [Ruby Env Manager](https://github.com/rbenv/rbenv) (windows)
-  - [ASDF Language-Agnostic Environment Versioning](https://asdf-vm.com/)
-    - [ASDF Ruby Plug-In](https://github.com/asdf-vm/asdf-ruby)
+  - [Standard Ruby Env Manager](https://github.com/rbenv/rbenv)
+  - [Emerging Language-Agnostic Environment Versioning Using asdf](https://asdf-vm.com/)
+    - [asdf Ruby Plug-In](https://github.com/asdf-vm/asdf-ruby)
 
 - Dependencies
   - ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
   - rails version 6.1.4.1: ``` $ rails -v ```
   - ``` $ git clone git@github.com:urbanspectra-nyc/UniLingo.git ; cd UniLingo ```
-  - If you have bundler gem installed, then just run  run: ``` $ bundle```
+  - If bundler gem is installed, then just run: ``` $ bundle```
     - Else install the bundler gem with following command: ``` $ gem install bundler:2.2.15```
   - After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
 
 ##### Local Dev Testing
 - Browse to localhost:34456
-- Connect as guest.  Register.  Logout. Login.
+- Connect.  Login as Guest.  Register.  Logout. Login.
 
 ##### Heroku Deployments Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
 - Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
 - Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
-- Once installed, the heroku command is available from your terminal.
+- Once installed, the heroku command is available from your terminal.  ``` $ heroku -help ```
 
 ##### Deploy To Heroku
 - Log in using your Heroku account’s email address and password:
