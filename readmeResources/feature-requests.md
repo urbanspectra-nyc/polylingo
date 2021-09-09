@@ -1,12 +1,5 @@
 ## Example Feature Requests
 
-
-Name|Age|
----|---
-Bill|57
-Spencer|19
-
-
 | Feature | Read Page or Read Form or Write | Description | Route | Test | Result |
 |---|---|---|---|---|---|
 | Profile Private | Read Page | Private user profile data page. | /profile-private | | |
