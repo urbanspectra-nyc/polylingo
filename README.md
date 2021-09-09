@@ -16,7 +16,7 @@ Collaborators = [ Developers + Instructors + Students ]
 - [Troubleshooting](#troubleshooting)
 - [Contributors](#contributors)
 - [Related Projects](#related-projects)
-- [Current + Pending Tasks](#readmeResources/tasks.md)
+- [Current + Pending Tasks](readmeResources/tasks.md)
 
 ---
 
