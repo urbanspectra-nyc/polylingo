@@ -84,7 +84,7 @@
 
 - After deploying code, we need to migrate our database, make sure it is properly scaled, and use logs to debug any issues that come up.
 
-To push branch other than master use the following command:  ``` $ git push heroku <your-branch-name>:master 
+To push branch other than master use the following command:  ``` $ git push heroku <your-branch-name>:master ```
 
 Migrate your database 
 If you are using the database in your application, you need to manually migrate the database by running:
@@ -94,22 +94,23 @@ You can obtain an interactive shell session by running: ``` $ heroku run bash ``
 
 We can now visit the app in our browser with command: ``` $ heroku open ```
 
-If you run into any problems getting your app to perform properly, you will need to check the logs.
-You can view information about your running app using one of the logging commands:
-``` $ heroku logs -t ```
-
-- Run the Rails console.
-  - Heroku supports a one-off "dyno" using the heroku run command.
-
-Use this to launch a Rails console process attached to your local terminal for experimenting in your app’s environment:
-``` $ heroku run rails console ```
 
 #### Troubleshooting
 
+- Local Setups + Testing
 
+- Heroku Setups + Deployments
+  - Complete Heroku CLI [Docs](https://devcenter.heroku.com/categories/command-line)
+  - If you run into any problems getting your app to perform properly, you will need to check the logs.
+    - You can view information about your running app using one of the logging commands: ``` $ heroku logs -t ```
+  - Run the Rails console.
+    - Heroku supports a one-off "dyno" using the heroku run command.
+  - Use this to launch a Rails console process attached to your local terminal for experimenting in your app’s environment:
+  ``` $ heroku run rails console ```
 
 #### Contributors
-- Ruby Devs
+- Adopters
+- Ruby Dev
 - React Devs
 - Elixir Devs
 - Educators
