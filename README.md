@@ -10,7 +10,7 @@
 - [Current Tasks](#current-tasks)
 - [Pending Tasks](#pending-tasks)
 
-##### Running Prototype Demo
+##### Running Prototyping Demo
 - [Demo](https://uni-lingo.herokuapp.com/)
   - Connect as guest. Register. Logout. Login.
 
