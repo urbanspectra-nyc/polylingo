@@ -97,7 +97,7 @@ Skim this before your test-drive: =>  [Web App Prototype Feature Requests](/read
 
 ---
 
-#### Heroku Remote Service Login + Deployment
+#### Heroku Remote Service Deployment
 
 ##### Deploy your application to Heroku
 - Make sure you are in the directory that contains your Rails app, then create an app on Heroku:
