@@ -10,11 +10,11 @@
 - [Current Tasks](#current-tasks)
 - [Pending Tasks](#pending-tasks)
 
-##### Running Prototyping Demo
+#### Running Prototyping Demo
 - [Demo](https://uni-lingo.herokuapp.com/)
   - Connect as guest. Register. Logout. Login.
 
-##### Local Dev Setups
+#### Local Dev Setups
 
 - Tools
   - [Standard Ruby Env Manager](https://github.com/rbenv/rbenv)
