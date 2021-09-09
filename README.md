@@ -14,9 +14,9 @@ Collaborators = [ Developers + Instructors + Students ]
 - [Heroku Deployment Local Setups](#heroku-deployment-local-setups)
 - [Deploy To Heroku](#deploy-to-heroku)
 - [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [Related Projects](#related-projects)
+- [Types of Contributors](#types-of-contributors)
 - [Task Management](#task-management)
+- [Related Projects](#related-projects)
 
 ---
 
@@ -33,6 +33,8 @@ Collaborators = [ Developers + Instructors + Students ]
 
 =>  [Web App Prototype Feature Requests](/readmeResources/feature-requests.md) <=
 
+---
+
 #### Run Web App Demo For Prototyping
 
 - [Public Web Demo](https://uni-lingo.herokuapp.com/)
@@ -43,6 +45,8 @@ Collaborators = [ Developers + Instructors + Students ]
   - Logout. Login.
 
   - Choose Languages Of Interest.
+
+---
 
 #### Local Dev Setups
 
@@ -60,6 +64,8 @@ Collaborators = [ Developers + Instructors + Students ]
     - Else install the bundler gem with following command: ``` $ gem install bundler:2.2.15```
   - After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
 
+---
+
 #### Local Dev Testing
 - Browse to [Local App URL](https://localhost:34456)
 - Repo Tour
@@ -67,12 +73,16 @@ Collaborators = [ Developers + Instructors + Students ]
   - docker + gitpod
   - github actions • cloud shell
 
+---
+
 #### Heroku Deployment Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
 - Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
 - Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
 - Once installed, the heroku command is available from your terminal.  ``` $ heroku -help ```
+
+---
 
 #### Deploy To Heroku
 - Log in using your Heroku account’s email address and password:  ```$ heroku login```
@@ -99,6 +109,8 @@ Any commands after the heroku run are executed on a Heroku dyno.
 You can obtain an interactive shell session by running: ``` $ heroku run bash ```
 We can now visit the app in our browser with command: ``` $ heroku open ```
 
+---
+
 #### Troubleshooting
 
 - Local Setups + Testing
@@ -112,7 +124,9 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
   - Use this to launch a Rails console process attached to your local terminal for experimenting in your app’s environment:
   ``` $ heroku run rails console ```
 
-#### Contributors
+---
+
+#### Types of Contributors
 - Adopters
 - Ruby on Rails Devs
 - Ruby Sinatra Devs
@@ -122,15 +136,20 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
   - Instructors
   - Students
 
-#### Related Projects
-- [Example Elixir Web App: rUrls]()
-- [Example Beginner Structured Taxonomy Development]()
-- [Unilingo Advanced Structured Taxonomy Evolution]()
+---
 
 #### Task Management
 - Issue Triage
 - Issue Templates
 - PR Templates
 - [Current + Pending Tasks](readmeResources/tasks.md)
+
+---
+
+#### Related Projects
+- [Example Elixir Web App: rUrls]()
+- [Example Beginner Structured Taxonomy Development]()
+- [Unilingo Advanced Structured Taxonomy Evolution]()
+
 
 ---
