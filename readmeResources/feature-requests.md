@@ -12,7 +12,7 @@
 - How to declare native language.
 - How to add supported Character Sets?
 - How to add supported language?
-- How to peruse world languages?
+- How to peruse world languages?  https://en.wikipedia.org/wiki/English_language
 - What kinds of English?
 - Registration OpenAuth: gmail ID
 - Registration OpenAuth: github ID
