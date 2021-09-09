@@ -1,7 +1,7 @@
 ## UniLingo 
 
 ### Table of Contents
-- [Running Prototype Demo](#running-prototyping-demo)
+- [Running Prototype Demo](#running-prototype-demo)
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
 - [Heroku Deployments Setups](#heroku-deployment-setups)
