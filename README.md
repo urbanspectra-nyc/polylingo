@@ -12,7 +12,7 @@ Collaborators = [ Developers + Instructors + Students ]
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
 - [Heroku Deployment Local Setups](#heroku-deployment-local-setups)
-- [Deploy To Heroku](#deploy-to-heroku)
+- [Deploy To Heroku Login](#deploy-to-heroku-login)
 - [Troubleshooting](#troubleshooting)
 - [Types of Contributors](#types-of-contributors)
 - [Task Management](#task-management)
@@ -73,10 +73,26 @@ Collaborators = [ Developers + Instructors + Students ]
 
 #### Local Dev Testing
 - Browse to [Local App URL](https://localhost:34456)
-- Repo Tour
+
+- Repository Tour For Developers
   - tree
-  - docker + gitpod
-  - github actions • cloud shell
+  - gists
+  - dojos
+
+- Tools For Developers
+  - docker
+  - gitpod
+  - github actions
+  - cloud shell
+  - [Sample Elixir App]()
+  - [Extend Ruby on Rails]()
+  - [Port to Elixir-Phoenix from Ruby on Rails](https://github.com/mauricew/from-activerecord-to-ecto)
+  - [Port to Ruby-Sinatra from Ruby On Rails ]()
+  - [Port to PHP-Symfony from Ruby On Rails]()
+  - [Port to Py3-Flask from Ruby On Rails]()
+  - [Port to Node-React from Elixir-Phoenix]()
+  - [Mobile Strategy]()
+  - [Speech-To-Text Strategy]()
 
 ---
 
@@ -89,19 +105,20 @@ Collaborators = [ Developers + Instructors + Students ]
 
 ---
 
-#### Deploy To Heroku
+#### Heroku Remote Hostig Service Login
 - Log in using your Heroku account’s email address and password:  ```$ heroku login```
   - Enter your Heroku credentials
     - Email: < heroku account email >
     - Password: < heroku account password >
 
-- Deploy your application to Heroku
+##### Deploy your application to Heroku
 - Make sure you are in the directory that contains your Rails app, then create an app on Heroku:
 ```$ heroku create <your app name>```
 
-- Verify that the remote was added to your project by running:
-```$ git config --list --local | grep heroku```
-- If you see fatal: not in a git directory then you are likely not in the correct directory. Otherwise, you can deploy your code.
+##### Verify deployment
+
+- Remote heroku target was added to your project by running: ```$ git config --list --local | grep heroku```
+- If you see 'fatal: not in a git directory' then you are likely not in the correct directory. Otherwise, you can deploy your code.
 
 - Deploy your code to heroku under your own account using: ``` $ git push heroku master ```
 - After deploying code, we need to migrate our database, make sure it is properly scaled, and use logs to debug any issues that come up.
