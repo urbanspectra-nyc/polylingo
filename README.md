@@ -1,4 +1,4 @@
-## UniLingo 
+## unilingo 
 
 ### Table of Contents
 - [Running Prototyping Demo](#running-prototyping-demo)
