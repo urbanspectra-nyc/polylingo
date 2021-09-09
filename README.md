@@ -38,30 +38,12 @@ Collaborators = [ Developers + Instructors + Students ]
 
 - [Public Web Demo](https://uni-lingo.herokuapp.com/)
   - Connect and review supported languages.
-    - How to add supported language?
-    - How to peruse world languages?
-    - What kinds of English?
 
-  - Login as Guest. Register.
-    - Registration OpenAuth: gmail ID
-    - Registration OpenAuth: github ID
-    - Registration Profile Page: /??
-    - Registration Data Point: Instructor or Student
-    - Registration Data Point: Native Language
-    - Registration Data Point: Gmail ID
-    - Registration Data Point: Geographical (x,y)
-
-    - Instructor Registration Options: Faculty Interests = SET ('curriculum design', 'instruction', 'assessment')
-    - Instructor Registration Options: Batch Pre-Registration
-
-  - Choose Languages Of Interest.
-    - How to select tracks and lessons?
-    - How to create new tracks and lessons?
-    - How to gamify new tracks and lessons?
-    - How to add social learning features?
+  - Login as Guest.  Register.
 
   - Logout. Login.
-    - ??: Invite To Demo = Feature@Tag:Release => Scheduled?
+
+  - Choose Languages Of Interest.
 
 #### Local Dev Setups
 
