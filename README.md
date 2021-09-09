@@ -5,11 +5,17 @@
 1 - Adopters: Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping. => Search + contribute to feature requests.
 
 2 - Devs: Setup Local Dev Environment + Stand Up Local App.  => Search + request local dev support.
+
 3 - Devs: Redeploy Locally Tested Improved App To Your Free Heroku App Hosting Account.  => Search + request local dev support.
+
 4 - Devs: Add Feature Test, Code, Tag, Redeploy Locally Tested Improved App To Heroku. => 
+
 5 - Devs: Invite Instructor To Demo
+
 6 - Instructors: Invite Other Instructors To Demo
+
 7 - Instructors: Invite Students To Demo
+
 8 - Troubleshooting.
 
 9 - Open Source Contribution Types:
