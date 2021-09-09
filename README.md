@@ -21,7 +21,8 @@ Web app prototyping platform, supporting collaborative design of open source mul
 
 #### Overview
 
-1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.  => Contribute to feature request project issues.
+1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.
+  => Contribute to feature request project issues.
 
 2 - Setup Local Dev Environment + Stand Up Local App As Is.  => Contribute to local dev support requests.
 
