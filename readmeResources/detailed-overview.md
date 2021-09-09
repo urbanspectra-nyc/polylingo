@@ -30,4 +30,4 @@
 
 11 - Teams
 
-## [Return To Repo Root](https://github.com/urbanspectra-nyc/polylingo)
+## [Return To Repo Root](https://github.com/urbanspectra-nyc/polylingo/tree/rails_version_update)
