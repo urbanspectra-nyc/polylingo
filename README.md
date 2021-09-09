@@ -32,7 +32,7 @@ Collaborators = [ Developers + Instructors + Students ]
 
 =>  [Detailed Overview](/readmeResources/detailed-overview.md) <=
 
-=>  [Web App Prorotype Feature Requests](/readmeResources/feature-requests.md) <=
+=>  [Web App Prototype Feature Requests](/readmeResources/feature-requests.md) <=
 
 #### Run Web App Demo For Prototyping
 
