@@ -21,7 +21,12 @@ Collaborators = [ Developers + Instructors + Students ]
 ---
 
 #### Mile High Overview
-- Instructors + Students: Test-Drive Public Demo Web App + Recommend Features
+- Instructors
+  - Test-Drive Public Demo Web App + Foundational Features
+
+- Students: 
+  - Test-Drive Public Demo Web App + Foundational Features
+
 - Devs
   - Setup Local Dev Environment + Stand Up App As Is.
   - Add Example Feature: [ Test + Code + Tag ].
@@ -127,20 +132,22 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 ---
 
 #### Types of Contributors
-- Adopters
-- Ruby on Rails Devs
-- Ruby Sinatra Devs
-- React Devs
-- Elixir Devs
-- Educators
+- Educator Adoptors
   - Instructors
   - Students
+- Ruby on Rails 6.x Devs
+- Ruby Sinatra Devs
+- React + Node Devs
+- Elixir + Phoenix Devs
+- PHP Symfony Devs
+- Python3 Devs
 
 ---
 
 #### Task Management
 - Issue Triage
 - Issue Templates
+- Issue Triage
 - PR Templates
 - [Current + Pending Tasks](readmeResources/tasks.md)
 
@@ -150,6 +157,5 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 - [Example Elixir Web App: rUrls]()
 - [Example Beginner Structured Taxonomy Development]()
 - [Unilingo Advanced Structured Taxonomy Evolution]()
-
 
 ---
