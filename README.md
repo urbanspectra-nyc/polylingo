@@ -32,7 +32,10 @@
 
 #### Local Dev Testing
 - Browse to localhost:34456
-- Connect.  Login as Guest.  Register.  Logout. Login.
+- Connect. Login as Guest. Register. Logout. Login.
+
+- Repo Tour
+  - Tree
 
 #### Heroku Deployment Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
@@ -62,12 +65,11 @@ if you want to push branch other than master use the following command
 $ git push heroku <your-branch-name>:master Migrate your database
 If you are using the database in your application, you need to manually migrate the database by running:
 $ heroku run rake db:migrate
-Any commands after the heroku run are executed on a Heroku dyno. You can obtain an interactive shell session by running
+Any commands after the heroku run are executed on a Heroku dyno.
+You can obtain an interactive shell session by running: ``` $ heroku run bash ```
 
- $ heroku run bash
+We can now visit the app in our browser with command: ``` $ heroku open ```
 
-We can now visit the app in our browser with command:
-$ heroku open
 If you run into any problems getting your app to perform properly, you will need to check the logs.
 You can view information about your running app using one of the logging commands:
 ``` $ heroku logs -t ```
