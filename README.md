@@ -22,6 +22,7 @@ Collaborators = [ Developers + Instructors + Students ]
 ---
 
 #### Mile High Overview
+
 - Instructors
   - Test-Drive Public Demo Web App + Foundational Features
 
@@ -35,9 +36,9 @@ Collaborators = [ Developers + Instructors + Students ]
   - Redeploy Enhanced Demo To Self-Hosted Heroku.
   - Invite Instructors To Private Test-Driven Feature Demo.
 
-=>  [Detailed Overview](/readmeResources/detailed-overview.md) <=
+Broaden scope of project grasp: =>  [Detailed Overview](/readmeResources/detailed-overview.md) <=
 
-=>  [Web App Prototype Feature Requests](/readmeResources/feature-requests.md) <=
+Skim this before your test-drive: =>  [Web App Prototype Feature Requests](/readmeResources/feature-requests.md)
 
 ---
 
@@ -162,7 +163,7 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
   - [Port to Node-React from Elixir-Phoenix]()
   - [Mobile Strategy]()
   - [Speech-To-Text Strategy]()
-
+  - https://alchemist.camp/episodes/deploy-phoenix-heroku
 ---
 
 #### Task Management
