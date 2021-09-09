@@ -5,37 +5,36 @@
 
 - rails version 6.1.4.1: ```$ rails -v ```
 
-- If you have bundler gem installed run:
-``` $ bundle```
+- If you have bundler gem installed run: ``` $ bundle```
 
-- Else install the bundler gem with following command:
-```$ gem install bundler:2.2.15```
+- Else install the bundler gem with following command: ```$ gem install bundler:2.2.15```
 
-- After bundle is executed successfully, create db by running following command
-```$ rails db:create rails db:migrate Rails db:seed```
-
+- After bundle is executed successfully, create db by running following command: ```$ rails db:create rails db:migrate Rails db:seed```
 - Browse to localhost:34456
-Connect as guest.  Register.  Logout. Login.
+- Connect as guest.  Register.  Logout. Login.
 
 ##### Deploy To Heroku
-
 - Assumes basic familiarity with Ruby/Rails and Git.
 - Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
 
+### Local Setip For Heroku Deployments
+- Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
+- Once installed, the heroku command is available from your terminal.
+- Log in using your Heroku account’s email address and password:
+```$ heroku login```
+ heroku: Enter your Heroku credentials
+ Email: <heroku account email>
+ Password:< heroku account password >
 
-Local setup
-Install the Heroku CLI (https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
-Once installed, the heroku command is available from your terminal. Log in using your Heroku account’s email address and password:
-(on command line enter command)
-$ heroku login
- heroku: Enter your Heroku credentials Email: <heroku account email> Password:< heroku account password >
-Deploy your application to Heroku
-Make sure you are in the directory that contains your Rails app, then create an app on Heroku:
-$ heroku create <your app name>
-You can verify that the remote was added to your project by running:
-$ git config --list --local | grep heroku
-If you see fatal: not in a git directory then you are likely not in the correct directory. Otherwise, you can deploy your code. After you deploy your code, you need to migrate your database, make sure it is properly scaled, and use logs to debug any issues that come up.
+- Deploy your application to Heroku
+- Make sure you are in the directory that contains your Rails app, then create an app on Heroku:
+```$ heroku create <your app name>```
+- Verify that the remote was added to your project by running:
+```$ git config --list --local | grep heroku
+- If you see fatal: not in a git directory then you are likely not in the correct directory. Otherwise, you can deploy your code.
+
+- After you deploy your code, you need to migrate your database, make sure it is properly scaled, and use logs to debug any issues that come up.
 Deploy your code using : $ git push heroku master
 if you want to push branch other than master use the following command
 $ git push heroku <your-branch-name>:master Migrate your database
