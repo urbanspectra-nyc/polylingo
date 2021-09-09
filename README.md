@@ -162,7 +162,9 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
   - [Port to Py3-Flask from Ruby On Rails]()
   - [Port to Node-React from Elixir-Phoenix]()
   - [Mobile Strategy]()
-  - [Speech-To-Text Strategy](https://cloud.google.com/speech-to-text)
+  - [Speech-To-Text Strategy]
+    - [GCP](https://cloud.google.com/speech-to-text)
+    - [Flutter](https://www.youtube.com/watch?v=-rQ_OmPj300&ab_channel=TensorProgramming)
   - [Deploy ELixir To Heroku](https://alchemist.camp/episodes/deploy-phoenix-heroku)
   - [Elixir i18n](https://hexdocs.pm/gettext/Gettext.html)
 ---
