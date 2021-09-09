@@ -7,7 +7,7 @@ Collaborators = [ Developers + Instructors + Students ]
 ---
 
 ### Table of Contents
-- [Mile High Overview](#mile-high-0overview)
+- [Mile High Overview](#mile-high-overview)
 - [Run Web App Demo For Prototyping](#run-web-app-demo-for-prototyping)
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
@@ -22,8 +22,15 @@ Collaborators = [ Developers + Instructors + Students ]
 ---
 
 #### Mile High Overview
-- 
-- [Detailed Overview](/readmeResources/detailed-overview.md)
+- Instructors + Students: Test-Drive Public Demo Web App + Recommend Features
+- Devs
+  - Setup Local Dev Environment + Stand Up App As Is.
+  - Add Example Feature: [ Test + Code + Tag ].
+  - Setup Local System For Redeploying To Your Own Heroku App Hosting.
+  - Redeploy Enhanced Demo To Self-Hosted Heroku.
+  - Invite Instructors To Private Test-Driven Feature Demo.
+
+##### [Detailed Overview](/readmeResources/detailed-overview.md)
 
 #### Run Web App Demo For Prototyping
 
