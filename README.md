@@ -2,6 +2,10 @@
 
 Web app prototyping platform, supporting collaborative design of open source multi-lingual teaching and learning services.
 
+Related Projects:
+- pilot taxonomy evolution
+- unilingo
+- polylingo
 ---
 
 ### Table of Contents
