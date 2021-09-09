@@ -30,7 +30,7 @@ Collaborators = [ Developers + Instructors + Students ]
   - Redeploy Enhanced Demo To Self-Hosted Heroku.
   - Invite Instructors To Private Test-Driven Feature Demo.
 
-##### [Detailed Overview](/readmeResources/detailed-overview.md)
+=>  [Detailed Overview](/readmeResources/detailed-overview.md) <=
 
 #### Run Web App Demo For Prototyping
 
