@@ -29,16 +29,16 @@
     - ??: Batch Pre-Registrations
     - ??: Native Language
 
-  - Choose languages.
+  - Choose Languages Of Interest.
     - ??: How to select tracks and lessons.
+    - ??: How to create new tracks and lessons.
 
   - Logout. Login.
     - ??: Invite To Demo = Feature@Tag:Release => Scheduled?
 
-
 #### Local Dev Setups
 
-- Tools
+- Dev Tools
   - [Standard Ruby Env Manager](https://github.com/rbenv/rbenv)
   - [Emerging Language-Agnostic Environment Versioning Using asdf](https://asdf-vm.com/)
     - [asdf Ruby Plug-In](https://github.com/asdf-vm/asdf-ruby)
@@ -47,8 +47,8 @@
   - Assumes basic familiarity with Ruby on Rails and Git.
   - ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
   - rails version 6.1.4.1: ``` $ rails -v ```
-  - ``` $ git clone git@github.com:urbanspectra-nyc/UniLingo.git ; cd UniLingo ```
-  - If bundler gem is installed, then just run: ``` $ bundle```
+  - ``` $ git clone git@github.com:urbanspectra-nyc/unilingo.git ; cd unilingo ```
+  - If bundler gem is installed, then just run: ``` $ bundle ```
     - Else install the bundler gem with following command: ``` $ gem install bundler:2.2.15```
   - After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
 
@@ -56,6 +56,9 @@
 - Browse to [Local App URL](https://localhost:34456)
 - Repo Tour ??
   - Tree ??
+  - gitpod
+  - github actions
+  - cloud shell
 
 #### Heroku Deployment Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
