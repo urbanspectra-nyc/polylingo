@@ -1,5 +1,24 @@
 ## unilingo ![]()
 
+### Overview
+
+1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.
+    => Contribute a feature request.
+
+2 - Setup Local Dev Environment + Stand Up Local App.  
+    => Contribute a local dev support request.  
+
+3 - Redeploy Locally Tested Improved App To Your Free Heroku App Hosting Account. 
+    => Contribute a local dev support request.
+
+4 - Add feature code  Code, Test, Tag + Redeploy Locally Tested Improved App To Heroku. => 
+4 - Invite
+5 - Troubleshooting.  Contribute a support request.
+7 - Contribute
+6 - PRs
+
+---
+
 ### Table of Contents
 - [Run Web App Demo For Prototyping](#run-web-app-demo-for-prototyping)
 - [Local Dev Setups](#local-dev-setups)
@@ -20,18 +39,23 @@
 
 - [Public Web Demo](https://uni-lingo.herokuapp.com/)
   - Connect and review supported languages.
-    - ??: How to add supported language.  What kinds of English?
-    - ??: How to peruse world languages.
+    - How to add supported language?  What kinds of English?
+    - How to peruse world languages?
 
   - Login as Guest. Register.
-    - ??: Instructor or Student
-    - ??: Gmail ID
-    - ??: Batch Pre-Registrations
-    - ??: Native Language
+    - Registration Data Point: Instructor or Student
+    - Registration Data Point: Gmail ID
+    - Registration Data Point: Geographical (x,y)
+    - Registration Data Point: Native Language
+
+    - Instructor Registration Options: Faculty Interests = SET ('curriculum design', 'instruction', 'assessment')
+    - Instructor Registration Options: Batch Pre-Registration
 
   - Choose Languages Of Interest.
-    - ??: How to select tracks and lessons.
-    - ??: How to create new tracks and lessons.
+    - How to select tracks and lessons?
+    - How to create new tracks and lessons?
+    - How to gamify new tracks and lessons?
+    - How to add social learning features?
 
   - Logout. Login.
     - ??: Invite To Demo = Feature@Tag:Release => Scheduled?
