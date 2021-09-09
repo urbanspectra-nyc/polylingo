@@ -12,7 +12,7 @@ Collaborators = [ Developers + Instructors + Students ]
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
 - [Heroku Remote Hosting Local Setups](#heroku-remote-hosting-local-setups)
-- [Heroku Remote Service Login & Deployment](#heroku-remote-service-login-&-deployments)
+- [Heroku Remote Service Deployment](#heroku-remote-service-deployment)
 - [Troubleshooting](#troubleshooting)
 - [Types of Contributors](#types-of-contributors)
 - [Tools For Seasoned Developers](#tools-for-seasoned-developers)
@@ -90,14 +90,14 @@ Skim this before your test-drive: =>  [Web App Prototype Feature Requests](/read
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
 - Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
 - Once installed, the heroku command is available from your terminal.  ``` $ heroku -help ```
-
----
-
-#### Heroku Remote Service Login + Deployment
 - Log in using your Heroku account’s email address and password:  ```$ heroku login```
   - Enter your Heroku credentials
     - Email: < heroku account email >
     - Password: < heroku account password >
+
+---
+
+#### Heroku Remote Service Login + Deployment
 
 ##### Deploy your application to Heroku
 - Make sure you are in the directory that contains your Rails app, then create an app on Heroku:
