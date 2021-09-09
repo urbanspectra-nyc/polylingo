@@ -36,15 +36,15 @@ Collaborators = [ Developers + Instructors + Students ]
   - Redeploy Enhanced Demo To Self-Hosted Heroku.
   - Invite Instructors To Private Test-Driven Feature Demo.
 
-Broaden scope of project grasp: =>  [Detailed Overview](/readmeResources/detailed-overview.md) <=
+Broaden scope of project grasp =>  [Detailed Overview](/readmeResources/detailed-overview.md)
 
-Skim this before your test-drive: =>  [Web App Prototype Feature Requests](/readmeResources/feature-requests.md)
+Skim this before your test-drive =>  [Web App Prototype Feature Requests](/readmeResources/feature-requests.md)
 
 ---
 
 #### Run Web App Demo For Prototyping
 
-- [Public Web Demo](https://uni-lingo.herokuapp.com/)
+- [Publicly Hosted Web Demo](https://uni-lingo.herokuapp.com/)
   - Connect and review supported languages.
 
   - Login as Guest.  Register.
@@ -52,6 +52,8 @@ Skim this before your test-drive: =>  [Web App Prototype Feature Requests](/read
   - Logout. Login.
 
   - Choose Languages Of Interest.
+
+  - Reflect On Test-Driven Feature Development
 
 ---
 
@@ -77,10 +79,11 @@ Skim this before your test-drive: =>  [Web App Prototype Feature Requests](/read
 - Browse to [Local App URL](https://localhost:34456)
 
 - Repository Tour For Developers
-  - tree
+  - tree: sitemap + dirs
   - gists
   - dojos
 
+- [Test-Driven Feature Development]()
 
 ---
 
@@ -137,23 +140,28 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 ---
 
 #### Types of Contributors
-- Educator Adoptors
+- Adoptors In Education
   - Instructors
   - Students
 - Ruby on Rails 6.x Devs
 - Ruby Sinatra Devs
 - React + Node Devs
 - Elixir + Phoenix Devs
-- PHP Symfony Devs
-- Python3 Devs
+- PHP + Symfony Devs
+- Python3 + Flask Devs
 
 ---
 
 #### Tools For Seasoned Developers
   - docker
   - gitpod
+  - diagrams.net
+  - docusaurus
+  - github pages + gitbook
   - github actions
   - cloud shell
+  - [Deploy Elixir App To Heroku](https://alchemist.camp/episodes/deploy-phoenix-heroku)
+  - [Elixir i18n](https://hexdocs.pm/gettext/Gettext.html)
   - [Sample Elixir App]()
   - [Extend Ruby on Rails]()
   - [Port to Elixir-Phoenix from Ruby on Rails](https://github.com/mauricew/from-activerecord-to-ecto)
@@ -165,16 +173,19 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
   - [Speech-To-Text Strategy]
     - [GCP](https://cloud.google.com/speech-to-text)
     - [Flutter](https://www.youtube.com/watch?v=-rQ_OmPj300&ab_channel=TensorProgramming)
-  - [Deploy ELixir To Heroku](https://alchemist.camp/episodes/deploy-phoenix-heroku)
-  - [Elixir i18n](https://hexdocs.pm/gettext/Gettext.html)
+
 ---
 
 #### Task Management
+- Issue Types
 - Issue Triage
 - Issue Templates
-- Issue Triage
+- PR Types
+- PR Triage
 - PR Templates
-- [Current + Pending Tasks](readmeResources/tasks.md)
+- Tech Workflows
+- Educational Workflows
+- [Current + Pending Tasks](readmeResources/tasks.md) => Move to issues!!
 
 ---
 
