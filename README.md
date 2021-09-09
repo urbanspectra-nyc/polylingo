@@ -61,10 +61,11 @@
 
 - After deploying code, we need to migrate our database, make sure it is properly scaled, and use logs to debug any issues that come up.
 
-if you want to push branch other than master use the following command
-$ git push heroku <your-branch-name>:master Migrate your database
+To push branch other than master use the following command:  ``` $ git push heroku <your-branch-name>:master 
+
+Migrate your database 
 If you are using the database in your application, you need to manually migrate the database by running:
-$ heroku run rake db:migrate
+``` $ heroku run rake db:migrate ```
 Any commands after the heroku run are executed on a Heroku dyno.
 You can obtain an interactive shell session by running: ``` $ heroku run bash ```
 
