@@ -21,28 +21,29 @@ Web app prototyping platform, supporting collaborative design of open source mul
 
 #### Overview
 
-1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.
-  => Contribute to feature request project issues.
+1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.  See example feature request project issue.
 
-2 - Setup Local Dev Environment + Stand Up Local App As Is.  => Contribute to local dev support requests.
+2 - Setup Local Dev Environment + Stand Up Local App As Is.  See example local dev support request.
 
-3 - Redeploy Locally Tested Improved App To Your Free Heroku App Hosting Account.  => Search + request local dev support.
+3 - Redeploy Locally Tested Improved App To Your Free Heroku App Hosting Account.  See example heroku dev support request.
 
-4 - Add Feature Test, Code, Tag. Redeploy Locally Tested Improved App To Heroku.  => Search + request deployment dev support.
+4 - Add Feature Test+Code+Tag. Redeploy Locally Tested Improved App To Heroku.  See example deployment dev support request.
+    https://devcenter.heroku.com/ja
 
-5 - Devs Invite Instructor To Private Test-Driven Feature Demo.  Terms of exchange are proposed.
+5 - Devs Invite Instructor To Private Test-Driven Feature Demo.  See example proposed terms of exchange.
 
-6 - Instructors Invite Other Instructors To Demo
+6 - Instructors Invite Other Instructors To Demo.  See invitation example and template.
 
-7 - Instructors Invite Students To Demo
+7 - Instructors Invite Students To Demo.  See invitation example and template.
 
-8 - Troubleshooting Users + Devs => Fix Requests --E
+8 - Troubleshooting Users + Devs => Fix Requests --E [ Tests, Code, Content ]
 
 9 - Open Source Contribution Types
-    - Doc Editors:  [Use Github Project Issues](https://github.com/urbanspectra-nyc/polylingo/issues)
     - Candidate Adopters:  Web App Test-Driver Feature Requests
+    - Tech Doc Editors:  [Use Github Project Issues](https://github.com/urbanspectra-nyc/polylingo/issues)
     - New Devs:  Dev Support Requests
     - Seasoned Devs:  Pull Requests --E
+    - Faculty:  Instructional Structures
     - Instructors:  Instructional Content
     - Students:  Instructional Content
 
@@ -59,10 +60,13 @@ Web app prototyping platform, supporting collaborative design of open source mul
     - What kinds of English?
 
   - Login as Guest. Register.
+    - Registration OpenAuth: gmail ID
+    - Registration OpenAuth: github ID
+    - Registration Profile Page: /??
     - Registration Data Point: Instructor or Student
+    - Registration Data Point: Native Language
     - Registration Data Point: Gmail ID
     - Registration Data Point: Geographical (x,y)
-    - Registration Data Point: Native Language
 
     - Instructor Registration Options: Faculty Interests = SET ('curriculum design', 'instruction', 'assessment')
     - Instructor Registration Options: Batch Pre-Registration
@@ -117,11 +121,13 @@ Web app prototyping platform, supporting collaborative design of open source mul
 - Deploy your application to Heroku
 - Make sure you are in the directory that contains your Rails app, then create an app on Heroku:
 ```$ heroku create <your app name>```
+
 - Verify that the remote was added to your project by running:
 ```$ git config --list --local | grep heroku```
+
 - If you see fatal: not in a git directory then you are likely not in the correct directory. Otherwise, you can deploy your code.
 
-- Deploy your code using: ``` $ git push heroku master ```
+- Deploy your code to heroku under your own account using: ``` $ git push heroku master ```
 
 - After deploying code, we need to migrate our database, make sure it is properly scaled, and use logs to debug any issues that come up.
 
