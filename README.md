@@ -39,19 +39,13 @@ Web app prototyping platform, supporting collaborative design of open source mul
 
 8 - Troubleshooting
 
-9 - Open Source Contribution Types:
-
-    - Doc Editors:  [Use Github Project Issues](https://github.com/urbanspectra-nyc/polylingo/issues)
-
-    - Candidate Adopters:  Web App Test-Driver Feature Requests
-
-    - New Devs:  Dev Support Requests
-
-    - Seasoned Devs:  Pull Requests --E
-
-    - Instructors:  Instructional Content
-
-    - Students:  Instructional Content
+9 - Open Source Contribution Types
+- Doc Editors:  [Use Github Project Issues](https://github.com/urbanspectra-nyc/polylingo/issues)
+- Candidate Adopters:  Web App Test-Driver Feature Requests
+- New Devs:  Dev Support Requests
+- Seasoned Devs:  Pull Requests --E
+- Instructors:  Instructional Content
+- Students:  Instructional Content
 
 
 #### Run Web App Demo For Prototyping
