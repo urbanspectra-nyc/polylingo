@@ -23,7 +23,7 @@ Collaborators = [ Developers + Instructors + Students ]
 
 #### Mile High Overview
 - 
-- [Detailed Overview](/readmeResources/overview.md)
+- [Detailed Overview](/readmeResources/detailed-overview.md)
 
 #### Run Web App Demo For Prototyping
 
