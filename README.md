@@ -126,11 +126,11 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 
 - Heroku Setups + Deployments
   - Complete Heroku CLI [Docs](https://devcenter.heroku.com/categories/command-line)
-  - If you run into any problems getting your app to perform properly, you will need to check the logs.
-    - You can view information about your running app using one of the logging commands: ``` $ heroku logs -t ```
+  - If you run into any problems getting your app to perform properly, then you will need to check the logs.
+    - View information about your running app using one of the logging commands: ``` $ heroku logs -t ```
   - Run the Rails console.
     - Heroku supports a one-off "dyno" using the heroku run command.
-  - Use this to launch a Rails console process attached to your local terminal for experimenting in your app’s environment:
+  - To launch a Rails console process attached to your local terminal for experimenting in your app’s environment:
   ``` $ heroku run rails console ```
 
 ---
