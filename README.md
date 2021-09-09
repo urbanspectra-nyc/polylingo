@@ -62,12 +62,10 @@ Collaborators = [ Developers + Instructors + Students ]
 
 #### Local Dev Testing
 - Browse to [Local App URL](https://localhost:34456)
-- Repo Tour ??
-  - Tree ??
-  - docker
-  - gitpod
-  - github actions
-  - cloud shell
+- Repo Tour
+  - tree
+  - docker + gitpod
+  - github actions • cloud shell
 
 #### Heroku Deployment Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
@@ -88,13 +86,10 @@ Collaborators = [ Developers + Instructors + Students ]
 
 - Verify that the remote was added to your project by running:
 ```$ git config --list --local | grep heroku```
-
 - If you see fatal: not in a git directory then you are likely not in the correct directory. Otherwise, you can deploy your code.
 
 - Deploy your code to heroku under your own account using: ``` $ git push heroku master ```
-
 - After deploying code, we need to migrate our database, make sure it is properly scaled, and use logs to debug any issues that come up.
-
 To push branch other than master use the following command:  ``` $ git push heroku <your-branch-name>:master ```
 
 Migrate your database 
@@ -102,7 +97,6 @@ If you are using the database in your application, you need to manually migrate 
 ``` $ heroku run rake db:migrate ```
 Any commands after the heroku run are executed on a Heroku dyno.
 You can obtain an interactive shell session by running: ``` $ heroku run bash ```
-
 We can now visit the app in our browser with command: ``` $ heroku open ```
 
 #### Troubleshooting
