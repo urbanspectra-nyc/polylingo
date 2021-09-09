@@ -10,11 +10,11 @@
 - [Current Tasks](#current-tasks)
 - [Pending Tasks](#pending-tasks)
 
-##### Running Prototype Demo
+#### Running Prototype Demo
 - [Demo](https://uni-lingo.herokuapp.com/)
   - Connect as guest. Register. Logout. Login.
 
-##### Local Dev Setups
+#### Local Dev Setups
 
 - Tools
   - [Standard Ruby Env Manager](https://github.com/rbenv/rbenv)
@@ -29,18 +29,18 @@
     - Else install the bundler gem with following command: ``` $ gem install bundler:2.2.15```
   - After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
 
-##### Local Dev Testing
+#### Local Dev Testing
 - Browse to localhost:34456
 - Connect.  Login as Guest.  Register.  Logout. Login.
 
-##### Heroku Deployments Local Setups
+#### Heroku Deployments Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
 - Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
 - Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
 - Once installed, the heroku command is available from your terminal.  ``` $ heroku -help ```
 
-##### Deploy To Heroku
+#### Deploy To Heroku
 - Log in using your Heroku account’s email address and password:
 ```$ heroku login```
  heroku: Enter your Heroku credentials
@@ -73,11 +73,11 @@ Heroku allows you to run commands in a one-off dyno - scripts and applications t
 
 $ heroku run rails console
 
-##### Contributors
+#### Contributors
 - Ruby Devs
 - Elixir Devs
 
-##### Current Tasks
+#### Current Tasks
 - [ ] Gem issues solved.
 - [ ] Rails version updated (screenshot attached).
 - [ ] Deployed to heroku: https://uni-lingo.herokuapp.com/
@@ -89,7 +89,7 @@ $ heroku run rails console
 - [ ] Docker
 - [ ] Gitpod
 
-##### Pending Tasks
+#### Pending Tasks
 - [x] Updating rails to latest version.
 - [x] Resolving gem issues.
 - [x] Deployment to [heroku](https://uni-lingo.herokuapp.com/)
