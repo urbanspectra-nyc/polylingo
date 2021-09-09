@@ -1,15 +1,13 @@
 ## UniLingo 
 
-##### Run Locally 
+##### Local Dev Setup
 - ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
-
 - rails version 6.1.4.1: ```$ rails -v ```
-
 - If you have bundler gem installed run: ``` $ bundle```
-
 - Else install the bundler gem with following command: ```$ gem install bundler:2.2.15```
-
 - After bundle is executed successfully, create db by running following command: ```$ rails db:create rails db:migrate Rails db:seed```
+
+##### Local Dev Testing
 - Browse to localhost:34456
 - Connect as guest.  Register.  Logout. Login.
 
@@ -17,10 +15,10 @@
 - Assumes basic familiarity with Ruby/Rails and Git.
 - Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
-
-### Local Setup For Heroku Deployments
 - Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
 - Once installed, the heroku command is available from your terminal.
+
+### Local Setup For Heroku Deployments
 - Log in using your Heroku account’s email address and password:
 ```$ heroku login```
  heroku: Enter your Heroku credentials
