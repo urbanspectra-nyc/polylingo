@@ -18,13 +18,13 @@
 
 - Tools
   - [Ruby Env Manager](https://github.com/rbenv/rbenv) (windows)
-  - [Language-Agnostic Env Versioning](https://asdf-vm.com/)
+  - [ASDF Language-Agnostic Environment Versioning](https://asdf-vm.com/)
     - [ASDF Ruby Plug-In](https://github.com/asdf-vm/asdf-ruby)
 
 - Dependencies
   - ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
   - rails version 6.1.4.1: ``` $ rails -v ```
-  - If you have bundler gem installed, just run  run: ``` $ bundle```
+  - If you have bundler gem installed, then just run  run: ``` $ bundle```
     - Else install the bundler gem with following command: ``` $ gem install bundler:2.2.15```
   - After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
 
