@@ -22,10 +22,15 @@ Web app prototyping platform, supporting collaborative design of open source mul
 #### Overview
 
 1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.  => Contribute to feature request project issues.
+
 2 - Setup Local Dev Environment + Stand Up Local App As Is.  => Contribute to local dev support requests.
+
 3 - Redeploy Locally Tested Improved App To Your Free Heroku App Hosting Account.  => Search + request local dev support.
+
 4 - Add Feature Test, Code, Tag. Redeploy Locally Tested Improved App To Heroku.  => Search + request deployment dev support.
+
 5 - Devs Invite Instructor To Private Test-Driven Feature Demo.  Terms of exchange are proposed.
+
 6 - Instructors Invite Other Instructors To Demo
 
 7 - Instructors Invite Students To Demo
@@ -33,12 +38,12 @@ Web app prototyping platform, supporting collaborative design of open source mul
 8 - Troubleshooting Users + Devs => Fix Requests --E
 
 9 - Open Source Contribution Types
-- Doc Editors:  [Use Github Project Issues](https://github.com/urbanspectra-nyc/polylingo/issues)
-- Candidate Adopters:  Web App Test-Driver Feature Requests
-- New Devs:  Dev Support Requests
-- Seasoned Devs:  Pull Requests --E
-- Instructors:  Instructional Content
-- Students:  Instructional Content
+    - Doc Editors:  [Use Github Project Issues](https://github.com/urbanspectra-nyc/polylingo/issues)
+    - Candidate Adopters:  Web App Test-Driver Feature Requests
+    - New Devs:  Dev Support Requests
+    - Seasoned Devs:  Pull Requests --E
+    - Instructors:  Instructional Content
+    - Students:  Instructional Content
 
 10 - Open Source Issue Types + Templates => Automation
 
