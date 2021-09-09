@@ -7,3 +7,5 @@
 | 03 | Public Profile Page | Reads Page | Public user profile data page. | /profile-public |  | | |
 | 04 | Profile Append Role Choices | Reads Form |  | /profile-[scope]/edit |  | | |
 | 05 | Profile Select Role | Writes | Two roles offered as choice; one permitted. | /profile-[private] |  | | |
+
+## [Return To Github Repository Root](https://github.com/urbanspectra-nyc/polylingo/tree/rails_version_update)
