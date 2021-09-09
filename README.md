@@ -1,5 +1,7 @@
 ## unilingo ![]()
 
+Unilingo is an open source software app dev prototyping platform to support language teaching and learning web apps im open source edu.
+
 #### Overview
 
 1 - Adopters: Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping. => Search + contribute to feature requests.
