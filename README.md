@@ -1,31 +1,30 @@
 ## unilingo ![]()
 
-Prototyping platform supporting collaborative language teaching and learning web app dev in open source education.
+Prototyping platform for language teaching and learning supports collaborative web app dev in open source education.
 
 #### Overview
 
-1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping. 
-    Adopters => Search + contribute to feature requests.
+1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.  Search + contribute to feature requests.
 
-2 - Setup Local Dev Environment + Stand Up Local App. Devs => Search + request local dev support.
+2 - Setup Local Dev Environment + Stand Up Local App As Is.  Search + request local dev support.
 
-3 - Redeploy Locally Tested Improved App To Your Free Heroku App Hosting Account. Devs => Search + request local dev support.
+3 - Redeploy Locally Tested Improved App To Your Free Heroku App Hosting Account.  Search + request local dev support.
 
-4 - Add Feature Test, Code, Tag. Redeploy Locally Tested Improved App To Heroku.  Devs => Search + request deployment dev support.
+4 - Add Feature Test, Code, Tag. Redeploy Locally Tested Improved App To Heroku.  Search + request deployment dev support.
 
-5 - Devs => Invite Instructor To Demo
+5 - Devs Invite Instructor To Test-Driven Feature Demo
 
-6 - Instructors => Invite Other Instructors To Demo
+6 - Instructors Invite Other Instructors To Demo
 
-7 - Instructors => Invite Students To Demo
+7 - Instructors Invite Students To Demo
 
-8 - Troubleshooting.
+8 - Troubleshooting
 
 9 - Open Source Contribution Types:
     - Doc Editors:  [Use Github Project Issues](https://github.com/urbanspectra-nyc/unilingo/issues)
     - Candidate Adopters:  Web App Test-Driver Feature Requests
     - New Devs:  Dev Support Requests
-    - Seasoned Devs:  Pull Requests
+    - Seasoned Devs:  Pull Requests --E
     - Instructors:  Instructional Content
     - Students:  Instructional Content
 
@@ -51,8 +50,9 @@ Prototyping platform supporting collaborative language teaching and learning web
 
 - [Public Web Demo](https://uni-lingo.herokuapp.com/)
   - Connect and review supported languages.
-    - How to add supported language?  What kinds of English?
+    - How to add supported language?
     - How to peruse world languages?
+    - What kinds of English?
 
   - Login as Guest. Register.
     - Registration Data Point: Instructor or Student
