@@ -1,24 +1,43 @@
 ## UniLingo 
 
-##### Local Dev Setup
-- ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
-- rails version 6.1.4.1: ```$ rails -v ```
-- If you have bundler gem installed run: ``` $ bundle```
-- Else install the bundler gem with following command: ```$ gem install bundler:2.2.15```
-- After bundle is executed successfully, create db by running following command: ```$ rails db:create rails db:migrate Rails db:seed```
+### Table of Contents
+- [Running Demo](#running-demo)
+- [Local Dev Setups](#local-dev-setups)
+- [Local Dev Testing](#local-dev-testing)
+- [Heroku Deployments Setups](#heroku-deployment-setups)
+- [Deploy To Heroku](#deploy-to-heroku)
+- [Contributors](#contributors)
+- [Current Tasks](#current-tasks)
+- [Pending Tasks](#pending-tasks)
+
+##### Running Demo
+https://uni-lingo.herokuapp.com/
+
+##### Local Dev Setups
+- 
+  - https://github.com/rbenv/rbenv
+  - https://asdf-vm.com/
+  - https://github.com/asdf-vm/asdf-ruby
+
+
+- ruby version >= ruby 2.5.1p5: ```bash $ ruby -v ```
+- rails version 6.1.4.1: ```bash $ rails -v ```
+- If you have bundler gem installed, just run  run: ``` $ bundle```
+  - Else install the bundler gem with following command: ```bash $ gem install bundler:2.2.15```
+- After bundle is executed successfully, create db by running following command: ```bash $ rails db:create rails db:migrate Rails db:seed```
 
 ##### Local Dev Testing
 - Browse to localhost:34456
 - Connect as guest.  Register.  Logout. Login.
 
-##### Deploy To Heroku
+##### Heroku Deployments Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
 - Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
 - Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
 - Once installed, the heroku command is available from your terminal.
 
-### Local Setup For Heroku Deployments
+##### Deploy To Heroku
 - Log in using your Heroku account’s email address and password:
 ```$ heroku login```
  heroku: Enter your Heroku credentials
@@ -51,14 +70,31 @@ Heroku allows you to run commands in a one-off dyno - scripts and applications t
 
 $ heroku run rails console
 
+##### Contributors
+- Ruby Devs
+- Elixir Devs
 
-### Next Steps
+##### Current Tasks
+- [ ] Gem issues solved.
+- [ ] Rails version updated (screenshot attached).
+- [ ] Deployed to heroku: https://uni-lingo.herokuapp.com/
+- [ ] Latest code pushed on github:
+- [ ] PR Link: https://github.com/jdarmoni/DuoJuo/pull/28 => unilingo repo
+- [ ] Document with instructions has been attached.
+- [ ] Leverage Issues
+- [ ] Elixir Custom URL Creator
+- [ ] Docker
+- [ ] Gitpod
+
+##### Pending Tasks
 - [x] Updating rails to latest version.
 - [x] Resolving gem issues.
 - [x] Deployment to [heroku](https://uni-lingo.herokuapp.com/)
 - [ ] Test Docs
   - [ ] User Docs
   - [ ] Developer Docs
+  - [ ] Contributor Docs
 - [ ] Split {Poly,Uni}Lingo
 - [ ] Responsive Web Apps
 - [ ] Mobile Phone Apps
+- [Speech Recog](https://www.youtube.com/watch?v=-rQ_OmPj300&ab_channel=TensorProgramming)
