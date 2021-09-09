@@ -2,10 +2,6 @@
 
 Web app prototyping platform, supporting collaborative design of open source multi-lingual teaching and learning services.
 
-Related Projects:
-- pilot taxonomy evolution
-- unilingo
-- polylingo
 ---
 
 ### Table of Contents
@@ -13,13 +9,11 @@ Related Projects:
 - [Run Web App Demo For Prototyping](#run-web-app-demo-for-prototyping)
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
-
 - [Heroku Deployment Local Setups](#heroku-deployment-local-setups)
 - [Deploy To Heroku](#deploy-to-heroku)
-
 - [Troubleshooting](#troubleshooting)
-
 - [Contributors](#contributors)
+- [Related Projects](#related-projects)
 - [Current Tasks](#current-tasks)
 - [Pending Tasks](#pending-tasks)
 
@@ -28,18 +22,13 @@ Related Projects:
 #### Overview
 
 1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.  => Contribute to feature request project issues.
-
 2 - Setup Local Dev Environment + Stand Up Local App As Is.  => Contribute to local dev support requests.
-
 3 - Redeploy Locally Tested Improved App To Your Free Heroku App Hosting Account.  => Search + request local dev support.
-
 4 - Add Feature Test, Code, Tag. Redeploy Locally Tested Improved App To Heroku.  => Search + request deployment dev support.
-
 5 - Devs Invite Instructor To Private Test-Driven Feature Demo.  Terms of exchange are proposed.
-
 6 - Instructors Invite Other Instructors To Demo
 
-7 - Instructors Invite Students To Demo 
+7 - Instructors Invite Students To Demo
 
 8 - Troubleshooting Users + Devs => Fix Requests --E
 
@@ -101,6 +90,7 @@ Related Projects:
 - Browse to [Local App URL](https://localhost:34456)
 - Repo Tour ??
   - Tree ??
+  - docker
   - gitpod
   - github actions
   - cloud shell
@@ -155,10 +145,18 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 
 #### Contributors
 - Adopters
-- Ruby Dev
+- Ruby on Rails Devs
+- Ruby Sinatra Devs
 - React Devs
 - Elixir Devs
 - Educators
+  - Instructors
+  - Students
+
+#### Related Projects
+- sample elixir web app1
+- example structured taxonomy development
+- unilingo advanced structured taxonomy evolution
 
 #### Current Tasks
 - [ ] Gem issues solved.
