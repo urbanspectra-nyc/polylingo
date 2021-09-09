@@ -1,8 +1,8 @@
 ## polylingo ![]()
 
-... is a Web App Prototyping Platform, supporting collaborative design of open source multi-lingual teaching and learning services.
+... is a Web App Prototyping Platform, supporting open source multi-lingual teaching and learning service design.
 
-Collaborators = [ Developers + Instructors + Students ]
+Design + Test Collaborators = [ Developers + Instructors + Students ]
 
 ---
 
@@ -160,6 +160,8 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
   - github pages + gitbook
   - github actions
   - cloud shell
+  - helm
+  - k8s
   - [Deploy Elixir App To Heroku](https://alchemist.camp/episodes/deploy-phoenix-heroku)
   - [Elixir i18n](https://hexdocs.pm/gettext/Gettext.html)
   - [Sample Elixir App]()
@@ -177,6 +179,7 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 ---
 
 #### Task Management
+- Product Team Roles: Product Manager + Technical Project Managers + Instructors + Developers + Engineers + Docs + APIs
 - Issue Types
 - Issue Triage
 - Issue Templates
