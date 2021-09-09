@@ -18,6 +18,7 @@
 8 - Troubleshooting Users + Devs => Fix Requests --E [ Tests, Code, Content ]
 
 9 - Open Source Contribution Types
+
     - Candidate Adopters:  Web App Test-Driver Feature Requests
     - Tech Doc Editors:  [Use Github Project Issues](https://github.com/urbanspectra-nyc/polylingo/issues)
     - New Devs:  Dev Support Requests
