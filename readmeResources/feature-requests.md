@@ -8,4 +8,10 @@
 | 04 | Profile Append Role Choices | Reads Form |  | /profile-[scope]/edit |  | | |
 | 05 | Profile Select Role | Writes | Two roles offered as choice; one permitted. | /profile-[private] |  | | |
 
+- How to add supported Character Sets?
+- How to add supported language?
+- How to peruse world languages?
+- What kinds of English?
+
+
 ## [Return To Github Repository Root](https://github.com/urbanspectra-nyc/polylingo/tree/rails_version_update)
