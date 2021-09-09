@@ -4,7 +4,7 @@
 - [Running Prototyping Demo](#running-prototyping-demo)
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
-- [Heroku Deployments Setups](#heroku-deployment-setups)
+- [Heroku Deployment Local Setups](#heroku-deployment-local-setups)
 - [Deploy To Heroku](#deploy-to-heroku)
 - [Contributors](#contributors)
 - [Current Tasks](#current-tasks)
@@ -33,7 +33,7 @@
 - Browse to localhost:34456
 - Connect.  Login as Guest.  Register.  Logout. Login.
 
-#### Heroku Deployments Local Setups
+#### Heroku Deployment Local Setups
 - Assumes basic familiarity with Ruby/Rails and Git.
 - Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
