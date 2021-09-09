@@ -12,7 +12,7 @@ Collaborators = [ Developers + Instructors + Students ]
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
 - [Heroku Remote Hosting Local Setups](#heroku-remote-hosting-local-setups)
-- [Heroku Remote Service Login + Deployment](#heroku-remote-service-login-+-deployments)
+- [Heroku Remote Service Login & Deployment](#heroku-remote-service-login-&-deployments)
 - [Troubleshooting](#troubleshooting)
 - [Types of Contributors](#types-of-contributors)
 - [Tools For Seasoned Developers](#tools-for-seasoned-developers)
