@@ -12,6 +12,21 @@
 - How to add supported language?
 - How to peruse world languages?
 - What kinds of English?
+- Registration OpenAuth: gmail ID
+- Registration OpenAuth: github ID
+- Registration Profile Page: /??
+- Registration Data Point: Instructor or Student
+- Registration Data Point: Native Language
+- Registration Data Point: Gmail ID
+- Registration Data Point: Geographical (x,y)
+- Instructor Registration Options: Faculty Interests = SET ('curriculum design', 'instruction', 'assessment')
+- Instructor Registration Options: Batch Pre-Registration
+- Choose Languages Of Interest.
+- How to select tracks and lessons?
+- How to create new tracks and lessons?
+- How to gamify new tracks and lessons?
+- How to add social learning features?
 
+- Invite To Demo = Feature@Tag:Release => Scheduled?
 
 ## [Return To Github Repository Root](https://github.com/urbanspectra-nyc/polylingo/tree/rails_version_update)
