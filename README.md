@@ -1,8 +1,6 @@
-## unilingo ![unilingo logo](??)
+## unilingo ![]()
 
 ### Table of Contents
-- [Overview](#overview)
-
 - [Run Web App Demo For Prototyping](#run-web-app-demo-for-prototyping)
 - [Local Dev Setups](#local-dev-setups)
 - [Local Dev Testing](#local-dev-testing)
