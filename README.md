@@ -18,7 +18,7 @@
 - Requires locally installed version of Ruby 2.5.0+, Rubygems, Bundler, and Rails 6+
 - Requires heroku user [account link](https://signup.heroku.com/devcenter)
 
-### Local Setip For Heroku Deployments
+### Local Setup For Heroku Deployments
 - Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) on your development machine.
 - Once installed, the heroku command is available from your terminal.
 - Log in using your Heroku account’s email address and password:
@@ -31,7 +31,7 @@
 - Make sure you are in the directory that contains your Rails app, then create an app on Heroku:
 ```$ heroku create <your app name>```
 - Verify that the remote was added to your project by running:
-```$ git config --list --local | grep heroku
+```$ git config --list --local | grep heroku```
 - If you see fatal: not in a git directory then you are likely not in the correct directory. Otherwise, you can deploy your code.
 
 - After you deploy your code, you need to migrate your database, make sure it is properly scaled, and use logs to debug any issues that come up.
@@ -52,7 +52,6 @@ Run the Rails console
 Heroku allows you to run commands in a one-off dyno - scripts and applications that only need to be executed when needed - using the heroku run command. Use this to launch a Rails console process attached to your local terminal for experimenting in your app’s environment:
 
 $ heroku run rails console
-
 
 
 ### Next Steps
