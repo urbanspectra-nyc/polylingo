@@ -24,6 +24,7 @@
 - Dependencies
   - ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
   - rails version 6.1.4.1: ``` $ rails -v ```
+  - ``` $ git clone git@github.com:urbanspectra-nyc/UniLingo.git ; cd UniLingo ```
   - If you have bundler gem installed, then just run  run: ``` $ bundle```
     - Else install the bundler gem with following command: ``` $ gem install bundler:2.2.15```
   - After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
