@@ -33,4 +33,4 @@
 
 12 - [Contributor Workflows](https://github.com/urbanspectra-nyc/polylingo/blob/rails_version_update/README.md#contributors)
 
-## [Return To Repo Root](https://github.com/urbanspectra-nyc/polylingo/tree/rails_version_update)
+## [Return To Github Repository Root](https://github.com/urbanspectra-nyc/polylingo/tree/rails_version_update)
