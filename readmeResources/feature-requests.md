@@ -31,4 +31,18 @@
 
 - Invite To Demo = Feature@Tag:Release => Scheduled?
 
+
+We would completely redesign:
+- login screen
+- registration
+- languages supported
+- home screen + navs
+You sent
+Instructor Polylingo Pitch:
+- new languages supported
+- new modules available
+- load your own module in
+- learn faculty tech contribs --E
+- learn faculty edu contribs
+
 ## [Return To Github Repository Root](https://github.com/urbanspectra-nyc/polylingo/tree/rails_version_update)
