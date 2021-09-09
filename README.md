@@ -15,6 +15,7 @@ Collaborators = [ Developers + Instructors + Students ]
 - [Deploy To Heroku Login](#deploy-to-heroku-login)
 - [Troubleshooting](#troubleshooting)
 - [Types of Contributors](#types-of-contributors)
+- [Tools For Seasoned Developers](#tools-for-seasoned-developers)
 - [Task Management](#task-management)
 - [Related Projects](#related-projects)
 
@@ -79,20 +80,6 @@ Collaborators = [ Developers + Instructors + Students ]
   - gists
   - dojos
 
-- Tools For Developers
-  - docker
-  - gitpod
-  - github actions
-  - cloud shell
-  - [Sample Elixir App]()
-  - [Extend Ruby on Rails]()
-  - [Port to Elixir-Phoenix from Ruby on Rails](https://github.com/mauricew/from-activerecord-to-ecto)
-  - [Port to Ruby-Sinatra from Ruby On Rails ]()
-  - [Port to PHP-Symfony from Ruby On Rails]()
-  - [Port to Py3-Flask from Ruby On Rails]()
-  - [Port to Node-React from Elixir-Phoenix]()
-  - [Mobile Strategy]()
-  - [Speech-To-Text Strategy]()
 
 ---
 
@@ -105,7 +92,7 @@ Collaborators = [ Developers + Instructors + Students ]
 
 ---
 
-#### Heroku Remote Hostig Service Login
+#### Heroku Remote Hosting Service Login
 - Log in using your Heroku account’s email address and password:  ```$ heroku login```
   - Enter your Heroku credentials
     - Email: < heroku account email >
@@ -158,6 +145,23 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 - Elixir + Phoenix Devs
 - PHP Symfony Devs
 - Python3 Devs
+
+---
+
+#### Tools For Seasoned Developers
+  - docker
+  - gitpod
+  - github actions
+  - cloud shell
+  - [Sample Elixir App]()
+  - [Extend Ruby on Rails]()
+  - [Port to Elixir-Phoenix from Ruby on Rails](https://github.com/mauricew/from-activerecord-to-ecto)
+  - [Port to Ruby-Sinatra from Ruby On Rails ]()
+  - [Port to PHP-Symfony from Ruby On Rails]()
+  - [Port to Py3-Flask from Ruby On Rails]()
+  - [Port to Node-React from Elixir-Phoenix]()
+  - [Mobile Strategy]()
+  - [Speech-To-Text Strategy]()
 
 ---
 
