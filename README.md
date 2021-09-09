@@ -1,6 +1,6 @@
 ## unilingo ![]()
 
-Prototyping platform for language teaching and learning supports collaborative web app dev in open source education.
+Web app dev prototyping platform supports collaborative design of language teaching and learning tools/services in open source education.
 
 #### Overview
 
