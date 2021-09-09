@@ -11,7 +11,7 @@
 - [Pending Tasks](#pending-tasks)
 
 ##### Running Prototype Demo
-- [](https://uni-lingo.herokuapp.com/)
+- [Demo](https://uni-lingo.herokuapp.com/)
 
 ##### Local Dev Setups
 - 
