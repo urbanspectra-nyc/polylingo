@@ -1,6 +1,6 @@
 ## unilingo ![]()
 
-Unilingo is an open source software app dev prototyping platform to support language teaching and learning web apps in open source education.
+Prototyping platform supporting collaborative language teaching and learning web app dev in open source education.
 
 #### Overview
 
