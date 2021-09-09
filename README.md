@@ -1,10 +1,10 @@
 ## unilingo ![]()
 
-Web app dev prototyping platform supports collaborative design of language teaching and learning tools/services in open source education.
+Web app prototyping dev platform, supporting collaborative design of language teaching and learning tools/services in open source education.
 
 #### Overview
 
-1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.  Search + contribute to feature requests.
+1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.  Search + contribute to feature request project issues.
 
 2 - Setup Local Dev Environment + Stand Up Local App As Is.  Search + request local dev support.
 
