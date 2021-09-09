@@ -2,6 +2,25 @@
 
 Web app prototyping platform, supporting collaborative design of multi-lingual open source teaching and learning services.
 
+---
+
+### Table of Contents
+- [Overview](#overview)
+- [Run Web App Demo For Prototyping](#run-web-app-demo-for-prototyping)
+- [Local Dev Setups](#local-dev-setups)
+- [Local Dev Testing](#local-dev-testing)
+
+- [Heroku Deployment Local Setups](#heroku-deployment-local-setups)
+- [Deploy To Heroku](#deploy-to-heroku)
+
+- [Troubleshooting](#troubleshooting)
+
+- [Contributors](#contributors)
+- [Current Tasks](#current-tasks)
+- [Pending Tasks](#pending-tasks)
+
+
+
 #### Overview
 
 1 - Test Drive Public Demo Web App Deployed At Heroku For New Feature Prototyping.  Contribute to feature request project issues.
@@ -21,30 +40,19 @@ Web app prototyping platform, supporting collaborative design of multi-lingual o
 8 - Troubleshooting
 
 9 - Open Source Contribution Types:
+
     - Doc Editors:  [Use Github Project Issues](https://github.com/urbanspectra-nyc/polylingo/issues)
+
     - Candidate Adopters:  Web App Test-Driver Feature Requests
+
     - New Devs:  Dev Support Requests
+
     - Seasoned Devs:  Pull Requests --E
+
     - Instructors:  Instructional Content
+
     - Students:  Instructional Content
 
----
-
-### Table of Contents
-- [Run Web App Demo For Prototyping](#run-web-app-demo-for-prototyping)
-- [Local Dev Setups](#local-dev-setups)
-- [Local Dev Testing](#local-dev-testing)
-
-- [Heroku Deployment Local Setups](#heroku-deployment-local-setups)
-- [Deploy To Heroku](#deploy-to-heroku)
-
-- [Troubleshooting](#troubleshooting)
-
-- [Contributors](#contributors)
-- [Current Tasks](#current-tasks)
-- [Pending Tasks](#pending-tasks)
-
----
 
 #### Run Web App Demo For Prototyping
 
