@@ -157,7 +157,7 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
   - gitpod
   - diagrams.net
   - docusaurus
-  - github pages + gitbook
+  - github pages + [gitbook](https://app.gitbook.com/@jeremy-donson/s/polylingo/)
   - github actions
   - cloud shell
   - helm
@@ -196,5 +196,4 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 - [Example Elixir Web App: rUrls]()
 - [Example Beginner Structured Taxonomy Development]()
 - [Unilingo Advanced Structured Taxonomy Evolution]()
-
 ---
