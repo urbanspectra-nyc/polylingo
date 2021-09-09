@@ -22,6 +22,7 @@
     - [asdf Ruby Plug-In](https://github.com/asdf-vm/asdf-ruby)
 
 - Dependencies
+  - Assumes basic familiarity with Ruby on Rails and Git.
   - ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
   - rails version 6.1.4.1: ``` $ rails -v ```
   - ``` $ git clone git@github.com:urbanspectra-nyc/UniLingo.git ; cd UniLingo ```
