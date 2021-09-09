@@ -14,17 +14,18 @@
 - [Demo](https://uni-lingo.herokuapp.com/)
 
 ##### Local Dev Setups
-- 
-  - https://github.com/rbenv/rbenv
-  - https://asdf-vm.com/
-  - https://github.com/asdf-vm/asdf-ruby
 
+- Tools
+  - [Ruby Env Manager](https://github.com/rbenv/rbenv) (windows)
+  - [Language-Agnostic Env Versioning](https://asdf-vm.com/)
+    - [ASDF Ruby Plug-In](https://github.com/asdf-vm/asdf-ruby)
 
-- ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
-- rails version 6.1.4.1: ``` $ rails -v ```
-- If you have bundler gem installed, just run  run: ``` $ bundle```
-  - Else install the bundler gem with following command: ``` $ gem install bundler:2.2.15```
-- After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
+- Dependencies
+  - ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
+  - rails version 6.1.4.1: ``` $ rails -v ```
+  - If you have bundler gem installed, just run  run: ``` $ bundle```
+    - Else install the bundler gem with following command: ``` $ gem install bundler:2.2.15```
+  - After bundle is executed successfully, create db by running following command: ``` $ rails db:create rails db:migrate Rails db:seed```
 
 ##### Local Dev Testing
 - Browse to localhost:34456
