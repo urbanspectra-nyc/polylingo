@@ -221,3 +221,8 @@ That lends itself to web diagramming. We use http://diagrams.net for that.
 - [Free course](https://www.udemy.com/course/5g-for-absolute-beginners/) to reference when tawkin 5g to the masses.
 
 - [world database with updates](https://www.visualcapitalist.com/a-world-of-languages/)
+
+- [tweet-to-text](https://merlin.allaboutbirds.org/bird-packs/)
+
+
+
