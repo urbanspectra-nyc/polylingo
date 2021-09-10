@@ -224,5 +224,5 @@ That lends itself to web diagramming. We use http://diagrams.net for that.
 
 - [tweet-to-text](https://merlin.allaboutbirds.org/bird-packs/)
 
-
+- [Audio machine learning](https://www.macaulaylibrary.org/machine-learning/)
 
