@@ -1,6 +1,6 @@
 ## polylingo ![]()
 
-... is a Web App Prototyping Platform, supporting open source multi-lingual teaching and learning service design.
+A Cutting-Edge Web App Prototyping Platform, supporting open source service design focused on multi-lingual teaching and learning.
 
 - Design + Build + Test Collaborators = [ Developers + Instructors + Students ]
 
