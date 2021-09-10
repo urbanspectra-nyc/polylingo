@@ -193,7 +193,9 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 ---
 
 #### Related Projects
-- [Example Elixir Web App: rUrls]()
+- [Example Elixir Web App: rUrls](https://github.com/toranb/elixir-url-shortener)
+- [Elixir package for Oauth authentication via Google Cloud APIs](https://github.com/peburrows/goth)
+- [Rails Barter App](https://github.com/celias/barter-app)
 - [Rails Crossword Puzzle Authoring App](https://github.com/andrewprogers/crossword-react-on-rails)
 - [Example Beginner Structured Taxonomy Development]()
 - [Unilingo Advanced Structured Taxonomy Evolution]()
