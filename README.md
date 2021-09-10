@@ -214,3 +214,5 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 
 Each of the items above can be represented with 1-2 icons.
 That lends itself to web diagramming. We use http://diagrams.net for that.
+
+[Free course](https://www.udemy.com/course/5g-for-absolute-beginners/) to reference when tawkin 5g to the masses.
