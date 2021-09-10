@@ -194,6 +194,7 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 
 #### Related Projects
 - [Example Elixir Web App: rUrls]()
+- [Rails Crossword Puzzle Authoring App](https://github.com/andrewprogers/crossword-react-on-rails)
 - [Example Beginner Structured Taxonomy Development]()
 - [Unilingo Advanced Structured Taxonomy Evolution]()
 ---
