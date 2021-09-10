@@ -199,4 +199,18 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 - [Rails Crossword Puzzle Authoring App](https://github.com/andrewprogers/crossword-react-on-rails)
 - [Example Beginner Structured Taxonomy Development]()
 - [Unilingo Advanced Structured Taxonomy Evolution]()
+
 ---
+
+### These days, web apps are mostly built from...
+- microsoft and other proprietary software
+- wordpress, drupal (php)
+- ruby on rails
+- python flask or django
+- java etc
+- node react
+- ruby sinatra
+- elixir
+
+Each of the items above can be represented with 1-2 icons.
+That lends itself to web diagramming. We use http://diagrams.net for that.
