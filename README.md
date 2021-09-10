@@ -82,6 +82,7 @@ Skim this before your test-drive =>  [Web App Prototype Feature Requests](/readm
   - tree: sitemap + dirs
   - gists
   - dojos
+  - environments
 
 - [Test-Driven Feature Development]()
 
