@@ -65,7 +65,9 @@ Skim this before your test-drive =>  [Web App Prototype Feature Requests](/readm
     - [asdf Ruby Plug-In](https://github.com/asdf-vm/asdf-ruby)
 
 - Dependencies
-  - Assumes basic familiarity with Ruby on Rails and Git.
+  - Assumes basic familiarity with:
+    - Ruby on [Rails](https://guides.rubyonrails.org/v6.0.2.1/command_line.html)
+    - [Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
   - ruby version >= ruby 2.5.1p5: ``` $ ruby -v ```
   - rails version 6.1.4.1: ``` $ rails -v ```
   - ``` $ git clone git@github.com:urbanspectra-nyc/unilingo.git ; cd unilingo ```
