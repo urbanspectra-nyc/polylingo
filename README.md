@@ -2,7 +2,7 @@
 
 ... is a Web App Prototyping Platform, supporting open source multi-lingual teaching and learning service design.
 
-Design + Test Collaborators = [ Developers + Instructors + Students ]
+- Design + Build + Test Collaborators = [ Developers + Instructors + Students ]
 
 ---
 
