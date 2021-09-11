@@ -226,3 +226,4 @@ That lends itself to web diagramming. We use http://diagrams.net for that.
 
 - [Audio machine learning](https://www.macaulaylibrary.org/machine-learning/)
 
+http://www.roget.org/scripts/qq.php
