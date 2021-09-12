@@ -226,9 +226,11 @@ That lends itself to web diagramming. We use http://diagrams.net for that.
 
 - [Audio machine learning](https://www.macaulaylibrary.org/machine-learning/)
 
-http://www.roget.org/scripts/qq.php
+- [Roget Online Thesaurus](http://www.roget.org/scripts/qq.php)
 
-https://codecanyon.net/item/animated-svg-globe-with-markers-and-logos/9844557
+- [SVG Globe](https://codecanyon.net/item/animated-svg-globe-with-markers-and-logos/9844557)
+
+- [Rail6 Testing Youtube Tutorial](https://www.youtube.com/watch?v=AAqPc0j_2bg&ab_channel=Deanin)
 
 ---
 Proposed format of README.md doc...
