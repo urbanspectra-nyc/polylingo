@@ -228,6 +228,8 @@ That lends itself to web diagramming. We use http://diagrams.net for that.
 
 http://www.roget.org/scripts/qq.php
 
+https://codecanyon.net/item/animated-svg-globe-with-markers-and-logos/9844557
+
 ---
 Proposed format of README.md doc...
 
