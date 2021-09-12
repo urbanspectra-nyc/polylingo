@@ -233,7 +233,7 @@ That lends itself to web diagramming. We use http://diagrams.net for that.
 - [Rail6 Testing Youtube Tutorial](https://www.youtube.com/watch?v=AAqPc0j_2bg&ab_channel=Deanin)
 
 ---
-Proposed format of README.md doc...
+Proposed format of tech README.md doc...
 
 - Repo Title
 - Description
