@@ -227,3 +227,32 @@ That lends itself to web diagramming. We use http://diagrams.net for that.
 - [Audio machine learning](https://www.macaulaylibrary.org/machine-learning/)
 
 http://www.roget.org/scripts/qq.php
+
+---
+Proposed format of README.md doc...
+
+- Repo Title
+- Description
+- Demo URL
+- Demo Instructions
+- Audiences
+- User Demo Support Requests
+- User Demo Feature Requests
+- Install Deps For Local App Setup
+- Clone + Stand Up Local App
+- Local App Dev Debugging
+- Local App Dev Prototyping
+- Deploy To Heroku
+- Automate Deployments
+- Dockerize Dev Env
+- Automate Dockerization + k8sDeploys
+- Gitpods For Dev Env
+- Issue Types
+- Building Teams
+---
+Dev Languages + Frameworks:
+- ruby-rails
+- elixir-phoenix
+- node-react
+- python-flask
+- flutter mobile
