@@ -235,25 +235,36 @@ That lends itself to web diagramming. We use http://diagrams.net for that.
 ---
 Proposed format of tech README.md doc...
 
-- Repo Title
-- Description
+- Project Title: polylingo
+
+- Repository Title: polylingo
+- Description: multilingual solutions for teaching and learning
+
 - Demo URL
 - Demo Instructions
-- Audiences
 - User Demo Support Requests
+
 - User Demo Feature Requests
+
+- Audiences
+- Issue Types
+
 - Install Deps For Local App Setup
 - Clone + Stand Up Local App
+
 - Local App Dev Debugging
 - Local App Dev Prototyping
 - Deploy To Heroku
+
+- Pull Requests
 - Automate Deployments
 - Dockerize Dev Env
 - Automate Dockerization + k8sDeploys
 - Gitpods For Dev Env
-- Issue Types
 - Building Teams
+
 ---
+
 Dev Languages + Frameworks:
 - ruby-rails
 - elixir-phoenix
