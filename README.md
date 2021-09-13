@@ -299,5 +299,6 @@ In each case we would need to clearly define how an instructor:
 rogue2vogue
 dojo2mojo
 
-https://diagrams.mingrammer.com/
-https://mermaid-js.github.io/mermaid/#/
+- https://diagrams.mingrammer.com/
+- https://mermaid-js.github.io/mermaid/#/
+- https://mermaid-js.github.io/mermaid-live-editor/
