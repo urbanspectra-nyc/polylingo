@@ -300,3 +300,4 @@ rogue2vogue
 dojo2mojo
 
 https://diagrams.mingrammer.com/
+https://mermaid-js.github.io/mermaid/#/
