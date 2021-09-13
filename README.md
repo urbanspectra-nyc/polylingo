@@ -260,3 +260,27 @@ Dev Languages + Frameworks:
 - node-react
 - python-flask
 - flutter mobile
+
+---
+
+Diagrams and gists are good to tie together.
+
+Gist to get you started with ghmd in an interactive fashion:  https://gist.github.com/jeremy-donson/e60eafe1320aebb396397b00bba33797
+
+Diagram we were working up the other day:  https://drive.google.com/file/d/1oOoXOQfU8dYCrm2JmSFBfpb3uQ6Tfkz_/view?usp=sharing
+
+A list of diagram types we will use is there.  There is also a link to another diagram focused on venn diagrams.
+
+Gamification of polylingo is helpful:
+- crosswords
+- venns
+- say what you see
+- org sentences from words
+- other
+
+In each case we would need to clearly define how an instructor:
+- picks languages of interest
+- picks language of focus
+- plays with game in simple demo
+- plays with game that depends upon user-defined content from another instructor
+- downloads into dojo the user-defined content from another instructor
