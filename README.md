@@ -295,3 +295,6 @@ In each case we would need to clearly define how an instructor:
 - plays with game in simple demo
 - plays with game that depends upon user-defined content from another instructor
 - downloads into dojo the user-defined content from another instructor
+
+rogue2vogue
+dojo2mojo
