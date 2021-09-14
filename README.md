@@ -307,3 +307,4 @@ dojo2mojo
 - https://pencil.evolus.vn/Downloads.html
 - https://www.heroku.com/training-and-education
 - http://seminar.mmc.nsu.ru/en.php
+- https://www.kdnuggets.com/2018/12/activewizards-comparison-speech-processing-apis.html
