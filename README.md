@@ -305,3 +305,4 @@ dojo2mojo
 - https://mermaid-js.github.io/mermaid/#/
 - https://mermaid-js.github.io/mermaid-live-editor/
 - https://pencil.evolus.vn/Downloads.html
+- https://www.heroku.com/training-and-education
