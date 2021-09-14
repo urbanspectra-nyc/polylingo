@@ -276,6 +276,8 @@ Dev Languages + Frameworks:
 
 Diagrams and gists are good to tie together.
 
+Diagrams:  https://gist.github.com/jeremy-donson/9882a07c8a508973755bf36de6069e56
+
 Gist to get you started with ghmd in an interactive fashion:  https://gist.github.com/jeremy-donson/e60eafe1320aebb396397b00bba33797
 
 Diagram we were working up the other day:  https://drive.google.com/file/d/1oOoXOQfU8dYCrm2JmSFBfpb3uQ6Tfkz_/view?usp=sharing
