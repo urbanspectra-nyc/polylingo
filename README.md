@@ -209,6 +209,10 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 - [Terraform Secrets: sops](https://medium.com/cloudandthings/terraform-git-commit-m-all-the-secrets-5dfea9b111de)
 - [Terraform Cloud Workspaces](https://app.terraform.io/app/urbanspectra/workspaces/new)
 
+- [ASDF Plug-In: Elixir](https://thinkingelixir.com/install-elixir-using-asdf/)
+- [ASDF Plug-In: Node](https://github.com/asdf-vm/asdf-nodejs)
+- [Gitpod](https://www.gitpod.io/blog/gitpodify/)
+
 ---
 
 ### These days, web apps are mostly built from...
