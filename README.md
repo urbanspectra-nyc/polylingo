@@ -207,6 +207,7 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 - [Terraform Provider: Heroku](https://registry.terraform.io/providers/heroku/heroku/latest/docs)
 - [Terraform Automation: Github Actions](https://learn.hashicorp.com/tutorials/terraform/github-actions )
 - [Terraform Secrets: sops](https://medium.com/cloudandthings/terraform-git-commit-m-all-the-secrets-5dfea9b111de)
+- [Terraform Cloud Workspaces](https://app.terraform.io/app/urbanspectra/workspaces/new)
 
 ---
 
