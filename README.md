@@ -4,10 +4,6 @@ Open source educational software design, supported by multi-lingual teaching and
 
 - Collaborative Web App Prototyping Teams = [Developers+Instructors+Students] => [Design+Test+Build+Deploy]
 
-- [Heroku Rails6 Guide](https://devcenter.heroku.com/articles/getting-started-with-rails6)
-- [Complete Heroku CLI Docs](https://devcenter.heroku.com/categories/command-line)
-- [Heroku Terraform Docs](https://devcenter.heroku.com/articles/using-terraform-with-heroku)
-
 ---
 
 ### Table of Contents
@@ -22,7 +18,7 @@ Open source educational software design, supported by multi-lingual teaching and
 - [Tools For Seasoned Developers](#tools-for-seasoned-developers)
 - [Task Management](#task-management)
 - [Related Projects](#related-projects)
-
+- [References](#references)
 ---
 
 #### Mile High Overview
@@ -203,6 +199,15 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 - [Rails Crossword Puzzle Authoring App](https://github.com/andrewprogers/crossword-react-on-rails)
 - [Example Beginner Structured Taxonomy Development]()
 - [Unilingo Advanced Structured Taxonomy Evolution]()
+
+---
+
+#### References
+- [Heroku Docs: Rails6](https://devcenter.heroku.com/articles/getting-started-with-rails6)
+- [Heroku Docs: CLI](https://devcenter.heroku.com/categories/command-line)
+- [Heroku Docs: Terraform](https://devcenter.heroku.com/articles/using-terraform-with-heroku)
+- [Terraform Provider: Heroku](https://registry.terraform.io/providers/heroku/heroku/latest/docs)
+- [Terraform Automation: Github Actions](https://learn.hashicorp.com/tutorials/terraform/github-actions )
 
 ---
 
