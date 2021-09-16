@@ -201,6 +201,7 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 
 #### References
 - [ASDF Plug-In: Ruby](https://github.com/asdf-vm/asdf-ruby)
+- [ASDF Plug-In: Node](https://github.com/asdf-vm/asdf-nodejs)
 - [Heroku Docs: Rails6](https://devcenter.heroku.com/articles/getting-started-with-rails6)
 - [Heroku Docs: CLI](https://devcenter.heroku.com/categories/command-line)
 - [Heroku Docs: Terraform](https://devcenter.heroku.com/articles/using-terraform-with-heroku)
@@ -208,10 +209,9 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 - [Terraform Automation: Github Actions](https://learn.hashicorp.com/tutorials/terraform/github-actions )
 - [Terraform Secrets: sops](https://medium.com/cloudandthings/terraform-git-commit-m-all-the-secrets-5dfea9b111de)
 - [Terraform Cloud Workspaces](https://app.terraform.io/app/urbanspectra/workspaces/new)
-
 - [ASDF Plug-In: Elixir](https://thinkingelixir.com/install-elixir-using-asdf/)
-- [ASDF Plug-In: Node](https://github.com/asdf-vm/asdf-nodejs)
 - [Gitpod](https://www.gitpod.io/blog/gitpodify/)
+- [DockerHub](https://hub.docker.com/)
 
 ---
 
