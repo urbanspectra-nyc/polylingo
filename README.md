@@ -1,8 +1,12 @@
 ## polylingo ![]()
 
-Open source educational service design, supported by multi-lingual teaching and learning.
+Open source educational software design, supported by multi-lingual teaching and learning.
 
-- Design + Build + Test Collaborators = [ Developers + Instructors + Students ]
+- Collaborative Web App Prototyping Teams = [Developers+Instructors+Students] => [Design+Test+Build+Deploy]
+
+- [Heroku Rails6 Guide](https://devcenter.heroku.com/articles/getting-started-with-rails6)
+- [Complete Heroku CLI Docs](https://devcenter.heroku.com/categories/command-line)
+- [Heroku Terraform Docs](https://devcenter.heroku.com/articles/using-terraform-with-heroku)
 
 ---
 
@@ -23,12 +27,6 @@ Open source educational service design, supported by multi-lingual teaching and 
 
 #### Mile High Overview
 
-- Instructors
-  - Test-Drive Public Demo Web App + Foundational Features
-
-- Students: 
-  - Test-Drive Public Demo Web App + Foundational Features
-
 - Devs
   - Setup Local Dev Environment + Stand Up App As Is.
   - Add Example Feature: [ Test + Code + Tag ].
@@ -39,6 +37,9 @@ Open source educational service design, supported by multi-lingual teaching and 
 Broaden scope of project grasp =>  [Detailed Overview](/readmeResources/detailed-overview.md)
 
 Skim this before your test-drive =>  [Web App Prototype Feature Requests](/readmeResources/feature-requests.md)
+
+- Instructors & Students
+  - Test-Drive Public Demo Web App + Foundational Features
 
 ---
 
