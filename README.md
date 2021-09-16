@@ -25,8 +25,9 @@ Open source educational software design, supported by multi-lingual teaching and
 
 - Devs
   - Setup Local Dev Environment + Stand Up App As Is.
-  - Add Example Feature: [ Test + Code + Tag ].
+  - Setup Local Deployment Tooling + Redeploy To Heroku.
   - Setup Local System For Redeploying To Your Own Heroku App Hosting.
+  - Add Example Local Feature: [ Test + Code + Tag ].
   - Redeploy Enhanced Demo To Self-Hosted Heroku.
   - Invite Instructors To Private Test-Driven Feature Demo.
 
@@ -43,13 +44,9 @@ Skim this before your test-drive =>  [Web App Prototype Feature Requests](/readm
 
 - [Publicly Hosted Web Demo](https://uni-lingo.herokuapp.com/)
   - Connect and review supported languages.
-
   - Login as Guest.  Register.
-
   - Logout. Login.
-
   - Choose Languages Of Interest.
-
   - Reflect On Test-Driven Feature Development
 
 ---
@@ -203,11 +200,13 @@ We can now visit the app in our browser with command: ``` $ heroku open ```
 ---
 
 #### References
+- [ASDF Plug-In: Ruby](https://github.com/asdf-vm/asdf-ruby)
 - [Heroku Docs: Rails6](https://devcenter.heroku.com/articles/getting-started-with-rails6)
 - [Heroku Docs: CLI](https://devcenter.heroku.com/categories/command-line)
 - [Heroku Docs: Terraform](https://devcenter.heroku.com/articles/using-terraform-with-heroku)
 - [Terraform Provider: Heroku](https://registry.terraform.io/providers/heroku/heroku/latest/docs)
 - [Terraform Automation: Github Actions](https://learn.hashicorp.com/tutorials/terraform/github-actions )
+- [Terraform Secrets: sops](https://medium.com/cloudandthings/terraform-git-commit-m-all-the-secrets-5dfea9b111de)
 
 ---
 
