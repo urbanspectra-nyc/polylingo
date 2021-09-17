@@ -13,6 +13,8 @@
 - Support for other dev languages in the near term will be driven by testing.
 
 #### Moving Targets To Scout
+- uname => flavorDistroVersion
+- new osx or linux versions
 - bashVersion || zshVersion
 - ~/.bash_profile
 - .project_bash_profile
