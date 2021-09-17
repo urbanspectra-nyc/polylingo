@@ -46,33 +46,29 @@ FILE STRUCTURE
 - FUNCTION TESTING: 
 
 ##### getters
-function xStamps() { } # time + date + unixtime + microtime
-function distroFlavorVersion() { }
-function pkgMgrs() { }
-function canBeSudoer() { } # Test: $ sudo bash
-function canBeSudoerNoPass() { } # Test: $ sudo bash
-function canWrite2Repo() { } # Test: $ 
-function canPullRequest2Repo() { } # Test: $ 
+- function xStamps() { } # time + date + unixtime + microtime
+- function distroFlavorVersion() { }
+- function pkgMgrs() { }
+- function canBeSudoer() { } # Test: $ sudo bash
+- function canBeSudoerNoPass() { } # Test: $ sudo bash
+- function canWrite2Repo() { } # Test: $ 
+- function canPullRequest2Repo() { } # Test: $ 
 
 ##### loggers
-function bashLogger() { } # 
-function preserveConfigs() { } # Like env or brew bundle or pip freeze.
+- function bashLogger() { } # 
+- function preserveConfigs() { } # Like env or brew bundle or pip freeze.
 
 ##### setters
-function asdfPluginsListAllPluginsUpdateRepo() { }
-function asdfPluginsListAllDevLangVersionsUpdateRepo() { }
-function localDevLangDir(cd ; mkdir -p "~/repos/_${1}/" ; cd $_; }
-function localDevLangProjectDir() { } # 
+- function asdfPluginsListAllPluginsUpdateRepo() { }
+- function asdfPluginsListAllDevLangVersionsUpdateRepo() { }
+- function localDevLangDir(cd ; mkdir -p "~/repos/_${1}/" ; cd $_; }
+- function localDevLangProjectDir() { } # 
 
 ##### ops
-
-function asdfInstallPluginListVersions() { asdf plugin-add $1 $2 ; asdf list-all $1 } # Tests:  [ dev_lang_nonexistent, dev_lang_exists, dev_lang_new_undetected ]
-function asdfLocalRubyRailsSetup
-function asdfLocalElixirPhoenixSetup
-
-
-function gitEtc() { }
-function installedMeta() { } # installedUsing; installedAtVersion; configGet; configSet; testedAtVersion # Test using git 
+- function asdfInstallPluginListVersions() { asdf plugin-add $1 $2 ; asdf list-all $1 } # Tests:  [ dev_lang_nonexistent, dev_lang_exists, dev_lang_new_undetected ]
+- function asdfLocalRubyRailsSetup
+- function asdfLocalElixirPhoenixSetup
 
 
-
+- function gitEtc() { }
+- function installedMeta() { } # installedUsing; installedAtVersion; configGet; configSet; testedAtVersion # Test using git 
