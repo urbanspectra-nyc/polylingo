@@ -1,4 +1,4 @@
-## Language Agnostic Local Dev Setups Usig asdf
+## Language Agnostic Local Dev Setups Using asdf
 
 #### Tools At Play
 - We use [asdf](https://asdf-vm.com/) to support setting up a given software development language at a given version.
