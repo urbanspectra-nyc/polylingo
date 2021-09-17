@@ -31,16 +31,17 @@
   - [/node-??/]()
   - [/py3-flask/]()
 
-Implementation Example... [ setUrl | curlScript | sourceScript | testScript | logScriptRun | rmScript ]
+- Implementation Example... [ setUrl | curlScript | sourceScript | testScript | logScriptRun | rmScript ]
 
+```
 ASDF_BASH_FUNCTIONS_SCRIPT_URL="https://raw.githubusercontent.com/urbanspectra-nyc/polylingo/rails_version_update/scripts/asdf-bash-functions.sh"
 ASDF_BASH_FUNCTIONS_SCRIPT_NAME=$( basename "${ASDF_BASH_FUNCTIONS_SCRIPT_URL}" )
 function sourceWebScript() { curl -o /dev/null --silent -Iw '%{http_code}' $1 | source } 
 sourceWebScript "${ASDF_BASH_FUNCTIONS_SCRIPT_URL}" >> load_test_bash_functions.log
 rm $ASDF_BASH_FUNCTIONS_SCRIPT_NAME
 # Copy FIVE lines above and add to local script to load and test these bash functions.
+```
 
-'
 
 #### FUNCTION INDEX
 
