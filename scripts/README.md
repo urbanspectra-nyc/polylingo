@@ -8,6 +8,16 @@
 - Our first language-frameworks are ruby-rails + elixir-phoenix.
 - Support for other dev languages in the near term will be driven by testing.
 
+We will need to keep sharp eyes on several moving targets:
+- asdf versions
+- asdf available plugins
+- asdf 
+- brew supported versions
+
+- bash || zsh
+- 
+
+
 #### Scripts Directory Structure
 - /scripts/ => We intend to migrate this directory to its own [public github repo](https://github.com/urbanspectra-nyc/asdf-tools-across-languages.git).
   - [functions to implement asdf agnostically regarding dev langs ](asdf-bash-functions.sh)
@@ -16,7 +26,24 @@
   - [/node-??/]()
   - [/py3-flask/]()
 
+Implementation Example... [ setUrl | curlScript | sourceScript | testScript | logScriptRun | rmScript ]
+
+ASDF_BASH_FUNCTIONS_SCRIPT_URL="https://raw.githubusercontent.com/urbanspectra-nyc/polylingo/rails_version_update/scripts/asdf-bash-functions.sh"
+ASDF_BASH_FUNCTIONS_SCRIPT_NAME=$( basename "${ASDF_BASH_FUNCTIONS_SCRIPT_URL}" )
+function sourceWebScript() { curl -o /dev/null --silent -Iw '%{http_code}' $1 | source } 
+sourceWebScript "${ASDF_BASH_FUNCTIONS_SCRIPT_URL}" >> load_test_bash_functions.log
+rm $ASDF_BASH_FUNCTIONS_SCRIPT_NAME
+# Copy FIVE lines above and add to local script to load and test these bash functions.
+
+'
+
 #### FUNCTION INDEX
+
+- FUNCTION INDEX: [ preserveStates, gettersBatch, setupConfigs, loggers, setters, ops, teardowns ]
+
+FILE STRUCTURE
+- FUNCTION CODE:
+- FUNCTION TESTING: 
 
 ##### getters
 function xStamps() { } # time + date + unixtime + microtime
@@ -46,3 +73,6 @@ function asdfLocalElixirPhoenixSetup
 
 function gitEtc() { }
 function installedMeta() { } # installedUsing; installedAtVersion; configGet; configSet; testedAtVersion # Test using git 
+
+
+
