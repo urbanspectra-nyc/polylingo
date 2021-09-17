@@ -1,7 +1,7 @@
 ## Language Agnostic Local Dev Setups Usig asdf
 
 #### Tools At Play
-- We use [asdf](https://asdf-vm.com/) to support a given software development language at a given version.
+- We use [asdf](https://asdf-vm.com/) to support setting up a given software development language at a given version.
 - We share our dev setups and app code via [github](http://github.com).
 - We deploy our code to [heroku](http://heroku.com) using the [heroku cli](https://devcenter.heroku.com/articles/heroku-cli-commands).
 - This README.md file helps organize our tests with code in [asdf bash functions](asdf-bash-functions.sh).
