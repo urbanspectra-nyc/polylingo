@@ -1,22 +1,26 @@
-## Language Agnostic Local Dev Setups
+## Language Agnostic Local Dev Setups Usig asdf
 
-- We use [asdf](https://asdf-vm.com/) to support any software development language at a given version.
+#### Tools At Play
+- We use [asdf](https://asdf-vm.com/) to support a given software development language at a given version.
 - We share our dev setups and app code via [github](http://github.com).
 - We deploy our code to [heroku](http://heroku.com) using the [heroku cli](https://devcenter.heroku.com/articles/heroku-cli-commands).
 - This README.md file helps organize our tests with code in [asdf bash functions](asdf-bash-functions.sh).
 - Each asdf bash function is supported by one or more tests expressed as yaml files.
 - Our first language-frameworks are ruby-rails + elixir-phoenix.
+- Complete dev language support includes local setups, tracks deps, dockerfile => gitpod, deploy to heroku, deploy to aws, deploy to gcp... automate.
+- We will use [github actions](https://github.com/features/), [sops](https://medium.com/cloudandthings/terraform-git-commit-m-all-the-secrets-5dfea9b111de) and [terraform](https://www.terraform.io/docs/cloud/workspaces/index.html) where appropriate.
+- App testing will take the forms of rspec and minitest.
 - Support for other dev languages in the near term will be driven by testing.
 
-We will need to keep sharp eyes on several moving targets:
+#### Moving Targets To Scout
 - bashVersion || zshVersion
 - ~/.bash_profile
 - .project_bash_profile
 - asdf versions
 - asdf available plugins
 - asdf available language versions
+- new versions of package managers
 - brew supported versions
-- 
 
 
 #### Scripts Directory Structure
