@@ -46,7 +46,7 @@ FILE STRUCTURE
 - FUNCTION TESTING: 
 
 ##### getters
-- function xStamps() { } # time + date + unixtime + microtime
+- function xStamps() { } # time + date + utime + mtime
 - function distroFlavorVersion() { }
 - function pkgMgrs() { }
 - function canBeSudoer() { } # Test: $ sudo bash
