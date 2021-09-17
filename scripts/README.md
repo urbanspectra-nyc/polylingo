@@ -9,12 +9,13 @@
 - Support for other dev languages in the near term will be driven by testing.
 
 We will need to keep sharp eyes on several moving targets:
+- bashVersion || zshVersion
+- ~/.bash_profile
+- .project_bash_profile
 - asdf versions
 - asdf available plugins
-- asdf 
+- asdf available language versions
 - brew supported versions
-
-- bash || zsh
 - 
 
 
@@ -69,6 +70,7 @@ FILE STRUCTURE
 - function asdfLocalRubyRailsSetup
 - function asdfLocalElixirPhoenixSetup
 
-
+- function composeIndentedBlock() {}
+- function insertIndentedBlockIntoFileAtLine() {}
 - function gitEtc() { }
 - function installedMeta() { } # installedUsing; installedAtVersion; configGet; configSet; testedAtVersion # Test using git 
