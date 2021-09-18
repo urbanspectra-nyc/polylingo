@@ -1,5 +1,26 @@
 ## Local Test-Driven Setups For Any Dev Language Using asdf
 
+#### Table of Contents
+- [Statements of Purpose](#statements-of-purpose)
+- [Operating System Prerequisites](#operating-system-prerequisites)
+- [Quick Starts](#quick-starts)
+- []()
+
+#### Tools At Play
+
+#### Tracking Versions
+#### Moving Targets To Scout
+#### Scripts Directory Structure
+#### Function Index
+---
+
+#### Statements of Purpose
+- Support 2+ dev languages for local software project(s).
+- Support 2+ versions of a given language for local project(s).
+- Maximize consistency across operating systems, + dev languages.
+- Create local project directories that are self-contained.
+- Tracking legacy, current and emerging dependencies.
+
 #### Operating System Prerequisites
 - Linux
 - OSX
@@ -34,13 +55,12 @@
 - helm charts
 - k8s
 
-#### Tracking Versions: operating systems + package managers + tools
-#### Tracking Versions: managing asdf installation + upgrades
-#### Tracking Versions: Dev Languages
-#### Tracking Versions: Dev Language Tools + Components
-- This README.md file helps us organize both tests and code in [asdf bash functions](asdf-bash-functions.sh).
-- Function names and test names must stay synced.  Function tags can span 2+ categories.
-- Each asdf bash function is supported by one or more tests expressed as yaml files.
+#### Tracking Versions
+
+##### Operating systems + package managers + tools
+##### Managing asdf installation + upgrades
+##### Dev Languages
+##### Dev Language Tools + Components
 
 #### Tools At Play
 - We share our dev setups and app code via [github](http://github.com).
@@ -83,8 +103,10 @@ rm $ASDF_BASH_FUNCTIONS_SCRIPT_NAME
 # Copy FIVE lines above and add to local script to load and test these bash functions.
 ```
 
-
 #### FUNCTION INDEX
+- Function names and test names must stay synced.  Function tags can span 2+ categories.
+- This README.md file helps us organize both tests and code in [asdf bash functions](asdf-bash-functions.sh).
+- Each asdf bash function is supported by one or more tests expressed as yaml files.
 
 - FUNCTION INDEX: [ preserveStates, gettersBatch, setupConfigs, loggers, setters, ops, teardowns ]
 
