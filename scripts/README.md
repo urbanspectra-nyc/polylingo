@@ -7,23 +7,32 @@
 
 #### Quick Starts
 
-- Set Up Local Dev Environment on OSX and Linux
-  - Capture baseline host state. Select a supported language and framework.  Get version before.
-  - Curl and execute asdf-centric bash function library.  Install asdf and load dev language plugin.  Take note of ~/.bash_profile.
-  - Curl and execute the Local Dev Setup Script for a given software development language.  New versions at play scoped to single project directory.
-  - Post Tests: Same devlang@diffversion, what do sudoers see, remove+restore
+##### Set Up Local Dev Environment on OSX and Linux
+- Capture baseline host state. Select a supported language and framework.  Get version before.
+- Curl and execute asdf-centric bash function library.  Install asdf and load dev language plugin.  Take note of ~/.bash_profile.
+- Curl and execute the Local Dev Setup Script for a given software development language.  New versions at play scoped to single project directory.
+- Post Tests: Same devlang@diffversion, what do sudoers see, remove+restore
 
-- Deploy To Heroku
+##### Deploy To Heroku
   - Create Heroku Account
   - Install Heroku CLI
   - Prepare App Code For Heroku Deploys
   - Deploy To Heroku
 
-- Deploy To AWS/GCP
+##### Deploy To Public Cloud Vendors
   - Create AWS/GCP Account
   - 
 
+##### Automate Secure Deployments
+- hashicorp cloud terraform
+- github actions
+- sops
 
+##### Explore Containerization
+- dockerfiles
+- gitpods
+- helm charts
+- k8s
 
 #### Tracking Versions: operating systems + package managers + tools
 #### Tracking Versions: managing asdf installation + upgrades
