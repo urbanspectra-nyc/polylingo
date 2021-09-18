@@ -1,20 +1,37 @@
-## Software Development Language Agnostic Local Dev Setups Using asdf
+## Local Dev Setups For Any Language Using asdf
 
-#### Quick Start
-- Set Up Local Dev Environment on OSX and Linux:
-  - Capture host state. Select a supported language and framework.  Get version baselines.
+#### Operating System Prerequisites
+- Linux
+- OSX
+- Windows Running Linux VM
+
+#### Quick Starts
+
+- Set Up Local Dev Environment on OSX and Linux
+  - Capture baseline host state. Select a supported language and framework.  Get version before.
   - Curl and execute asdf-centric bash function library.  Install asdf and load dev language plugin.  Take note of ~/.bash_profile.
   - Curl and execute the Local Dev Setup Script for a given software development language.  New versions at play scoped to single project directory.
-  - Tests:  
+  - Post Tests: Same devlang@diffversion, what do sudoers see, remove+restore
 
-- This README.md file helps us organize both tests and code in [asdf bash functions](asdf-bash-functions.sh).
-- Function names and test names must stay synced.  Function tags can span 2+ categories.
-- Each asdf bash function is supported by one or more tests expressed as yaml files.
+- Deploy To Heroku
+  - Create Heroku Account
+  - Install Heroku CLI
+  - Prepare App Code For Heroku Deploys
+  - Deploy To Heroku
+
+- Deploy To AWS/GCP
+  - Create AWS/GCP Account
+  - 
+
+
 
 #### Tracking Versions: operating systems + package managers + tools
 #### Tracking Versions: managing asdf installation + upgrades
 #### Tracking Versions: Dev Languages
 #### Tracking Versions: Dev Language Tools + Components
+- This README.md file helps us organize both tests and code in [asdf bash functions](asdf-bash-functions.sh).
+- Function names and test names must stay synced.  Function tags can span 2+ categories.
+- Each asdf bash function is supported by one or more tests expressed as yaml files.
 
 #### Tools At Play
 - We share our dev setups and app code via [github](http://github.com).
