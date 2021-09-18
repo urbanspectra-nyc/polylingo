@@ -51,7 +51,8 @@
 
 ##### Explore Containerization
 - dockerfiles
-- gitpods
+- gitpod
+- ansible
 - helm charts
 - k8s
 
