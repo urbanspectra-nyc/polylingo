@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# SCRIPT DOC => https://github.com/urbanspectra-nyc/polylingo/tree/rails_version_update/scripts ??
+
 # Max consistency when using asdf in bash across software dev languages: funcIndex + funcTests + funcCode
 
 bash # Subshell supports errors sans crashing terminal window.  Text: $ exit 0
