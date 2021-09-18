@@ -1,16 +1,19 @@
 ## Software Development Language Agnostic Local Dev Setups Using asdf
 
 #### Quick Start
-- Three Steps Per Language:
-  - Capture host state.  Set version baselines. Curl and execute asdf-centric bash function library.
-  - Install asdf and load dev language plugin.  Take note of ~/.bash_profile.
+- Set Up Local Dev Environment on OSX and Linux:
+  - Capture host state. Select a supported language and framework.  Get version baselines.
+  - Curl and execute asdf-centric bash function library.  Install asdf and load dev language plugin.  Take note of ~/.bash_profile.
   - Curl and execute the Local Dev Setup Script for a given software development language.  New versions at play scoped to single project directory.
+  - Tests:  
 
-#### Tracking Versions: Dev Language
 - This README.md file helps us organize both tests and code in [asdf bash functions](asdf-bash-functions.sh).
 - Function names and test names must stay synced.  Function tags can span 2+ categories.
 - Each asdf bash function is supported by one or more tests expressed as yaml files.
 
+#### Tracking Versions: operating systems + package managers + tools
+#### Tracking Versions: managing asdf installation + upgrades
+#### Tracking Versions: Dev Languages
 #### Tracking Versions: Dev Language Tools + Components
 
 #### Tools At Play
