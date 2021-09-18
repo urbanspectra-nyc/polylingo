@@ -1,16 +1,26 @@
 ## Software Development Language Agnostic Local Dev Setups Using asdf
 
-#### Tools At Play
-- We use [asdf](https://asdf-vm.com/) to support setting up a given software development language at a given version.
-- We share our dev setups and app code via [github](http://github.com).
-- We deploy our code to [heroku](http://heroku.com) using the [heroku cli](https://devcenter.heroku.com/articles/heroku-cli-commands).
-- This README.md file helps organize our tests with code in [asdf bash functions](asdf-bash-functions.sh).
+#### Quick Start
+- Three Steps Per Language:
+  - Capture host state.  Set version baselines. Curl and execute asdf-centric bash function library.
+  - Install asdf and load dev language plugin.  Take note of ~/.bash_profile.
+  - Curl and execute the Local Dev Setup Script for a given software development language.  New versions at play scoped to single project directory.
+
+#### Tracking Versions: Dev Language
+- This README.md file helps us organize both tests and code in [asdf bash functions](asdf-bash-functions.sh).
+- Function names and test names must stay synced.  Function tags can span 2+ categories.
 - Each asdf bash function is supported by one or more tests expressed as yaml files.
+
+#### Tracking Versions: Dev Language Tools + Components
+
+#### Tools At Play
+- We share our dev setups and app code via [github](http://github.com).
+- We use [asdf](https://asdf-vm.com/) to support setting up a given software development language at a given version.
+- We deploy our code to [heroku](http://heroku.com) using the [heroku cli](https://devcenter.heroku.com/articles/heroku-cli-commands).
 - Our first language-frameworks are ruby-rails + elixir-phoenix.
 - Complete dev language support includes local setups, tracks deps, dockerfile => gitpod, deploy to heroku, deploy to aws, deploy to gcp... automate.
 - We will use [github actions](https://github.com/features/), [sops](https://medium.com/cloudandthings/terraform-git-commit-m-all-the-secrets-5dfea9b111de) and [terraform](https://www.terraform.io/docs/cloud/workspaces/index.html) where appropriate.
 - App testing will take the forms of rspec and minitest.
-- Support for other dev languages in the near term will be driven by testing.
 
 #### Moving Targets To Scout
 - uname => flavorDistroVersion
