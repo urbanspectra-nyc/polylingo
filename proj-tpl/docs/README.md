@@ -1,1 +1,1 @@
-## Proposed Project Diretcory Structure
+## Proposed Project Directory Structure
