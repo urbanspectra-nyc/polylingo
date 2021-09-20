@@ -284,37 +284,9 @@ Dev Languages + Frameworks:
 
 ---
 
-Diagrams and gists are good to tie together.
-
-Diagrams:  https://gist.github.com/jeremy-donson/9882a07c8a508973755bf36de6069e56
-
-Gist to get you started with ghmd in an interactive fashion:  https://gist.github.com/jeremy-donson/e60eafe1320aebb396397b00bba33797
-
-Diagram we were working up the other day:  https://drive.google.com/file/d/1oOoXOQfU8dYCrm2JmSFBfpb3uQ6Tfkz_/view?usp=sharing
-
-A list of diagram types we will use is there.  There is also a link to another diagram focused on venn diagrams.
-
-Gamification of polylingo is helpful:
-- crosswords
-- venns
-- say what you see
-- org sentences from words
-- other
-
-In each case we would need to clearly define how an instructor:
-- picks languages of interest
-- picks language of focus
-- plays with game in simple demo
-- plays with game that depends upon user-defined content from another instructor
-- downloads into dojo the user-defined content from another instructor
-
-rogue2vogue
-dojo2mojo
-
-- https://diagrams.mingrammer.com/
-- https://mermaid-js.github.io/mermaid/#/
-- https://mermaid-js.github.io/mermaid-live-editor/
-- https://pencil.evolus.vn/Downloads.html
-- https://www.heroku.com/training-and-education
-- http://seminar.mmc.nsu.ru/en.php
-- https://www.kdnuggets.com/2018/12/activewizards-comparison-speech-processing-apis.html
+### Next Steps
+- updating rails to latest vers
+- resolving gem issues
+- deployment on heroku
+- test docs
+- split {Poly,Uni}Lingo
