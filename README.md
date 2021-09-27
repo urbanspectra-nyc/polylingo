@@ -51,6 +51,75 @@ Skim this before your test-drive =>  [Web App Prototype Feature Requests](/readm
 
 ---
 
+## Installing Instructions and setting up the project
+
+#### Step 1: Install RVM
+ In Terminal RUn:
+sudo apt-add-repository -y ppa:rael-gc/rvm
+sudo apt-get update
+sudo apt-get install rvm
+
+#### Step 2: Installing ruby version
+
+RUN: rvm install ruby 2.5.1
+
+#### Step 3 - Configure Ruby Gem
+
+gem update --system
+gem -v
+
+#### Step 4 - Install Ruby on Rails
+
+gem install rails -v 6.1.4.1
+After the installation is complete, check the rails version.
+
+rails -v
+
+#### Step 5 - Setup PostgreSQL Database for Rails Development
+
+sudo apt install postgresql postgresql-contrib libpq-dev -y
+After all installation is complete, start the Postgres service and enable it to launch everytime at system boot.
+
+systemctl start postgresql
+systemctl enable postgresql
+Next, we will configure a password for the Postgres user, and create a new user for the Rails installation.
+
+Login to the 'postgres' user and run the Postgres shell.
+
+su - postgres
+psql
+Change the Postgres password using the query below.
+
+\password postgres
+Type your password and the password for postgres user has been added.
+
+Now we will create a new role for our rails installation. We will create a new role named 'rails_dev' with the privilege of creating the database and with the password 'aqwe123'.
+
+Run the Postgres query below.
+
+create role rails_dev with createdb login password 'aqwe123';
+
+#### Step 6 - installing bundler
+
+Got to your project folder in terminal and RUN: 
+
+gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1)"
+
+#### Step 7 
+
+run: bundle install
+
+#### Step 8
+
+Run: rake db:setup
+
+#### project setup successfully
+
+to run the project: 
+
+Run: rails s
+
+
 #### Local Dev Setups
 
 - Dev Tools
