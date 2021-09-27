@@ -119,6 +119,7 @@ to run the project:
 
 Run: rails s
 
+---
 
 #### Local Dev Setups
 
